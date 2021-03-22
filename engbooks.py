@@ -9,6 +9,10 @@ from selenium.common.exceptions import TimeoutException
 from selenium.common.exceptions import NoSuchElementException
 import requests
 import time
+from bs4 import BeautifulSoup as bs
+
+
+f = open("descriptions.txt", "a")
 
 option = webdriver.ChromeOptions()
 option.add_experimental_option('excludeSwitches', ['enable-logging'])
@@ -22,31 +26,44 @@ try:
 	while browser.find_element_by_class_name("load-more"):
 		btn = browser.find_element_by_class_name("load-more")
 		browser.execute_script("arguments[0].click();", btn)
-		print("clicked")
 		time.sleep(8)
 except NoSuchElementException:
-	print("stopped")
+	print("Finished loading page.")
 	pass
 
+book_list = browser.find_element_by_class_name("o-grid-listing")
+book_items = book_list.find_elements_by_tag_name("li")
+for book_item in book_items:
+	link = book_item.find_element_by_tag_name("a").get_attribute("href")
+	title = book_item.text
+	data = requests.get(link).text
 
-# select list of all books
-books = browser.find_elements_by_class_name("m-book-listing")
-#links = books.find_elements_by_xpath("//a[@href]")
-
-for element in books:
-	link = element.find_element_by_xpath("//a[@class='m-book-listing__link']")
-	print(link.get_attribute("href"))
-#	url = "https://press.princeton.edu" + books.find_elements_by_xpath(".//a[@class='m-book-listing__link']"
-#	i += 1
-#	print(url)
-#	data = requests.get(url).text
-# parse using bs
+	soup = bs(data, 'html.parser')
 
 
-# need to display all the books by hitting load more until it can't load any more
-# grab the <ul> element
-# iterate through child elements to get titles and links
-# do requests.get to obtain description
-# parse using beautifulsoup
+	title = soup.find("h1", {"class": "o-book__title"})
+	f.write(title.get_text())
 
-#browser.quit()
+
+	try:
+		blurb = soup.find("div", {"class": "o-book__blurb f-landing"})
+		f.write(blurb.get_text())
+
+	except:
+		pass
+
+	try:
+		body = soup.find("div", {"class": "o-book__body"})
+		f.write(body.get_text())
+	except:
+		pass
+
+	try:
+		reviews = soup.find("div", {"class": "o-book__body-tab o-blocks o-blocks--reviews"})
+		f.write(reviews.get_text())
+
+	except:
+		pass
+
+browser.quit()
+f.close()
