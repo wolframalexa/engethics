@@ -12,7 +12,7 @@ import time
 from bs4 import BeautifulSoup as bs
 
 
-f = open("descriptions2.txt", "a")
+f = open("descriptions.txt", "a")
 
 option = webdriver.ChromeOptions()
 option.add_experimental_option('excludeSwitches', ['enable-logging'])
@@ -31,10 +31,12 @@ except NoSuchElementException:
 	print("Finished loading page.")
 	pass
 
+# read books
 book_list = browser.find_element_by_class_name("o-grid-listing")
 book_items = book_list.find_elements_by_tag_name("li")
 past_titles = []
 
+# parse book list
 for book_item in book_items:
 	link = book_item.find_element_by_tag_name("a").get_attribute("href")
 	title = book_item.text
@@ -55,18 +57,10 @@ for book_item in book_items:
 		except:
 			pass
 
-#		try:
 		body = soup.find("div", {"class": "o-book__body"})
 		f.write(body.get_text())
-#		except:
-#			pass
 
-#	try:
-#		reviews = soup.find("div", {"class": "o-book__body-tab o-blocks o-blocks--reviews"})
-#		f.write(reviews.get_text())
 
-#	except:
-#		pass
-
+print("Finished reading descriptions")
 browser.quit()
 f.close()
