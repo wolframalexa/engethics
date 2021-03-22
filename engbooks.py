@@ -33,6 +33,8 @@ except NoSuchElementException:
 
 book_list = browser.find_element_by_class_name("o-grid-listing")
 book_items = book_list.find_elements_by_tag_name("li")
+past_titles = []
+
 for book_item in book_items:
 	link = book_item.find_element_by_tag_name("a").get_attribute("href")
 	title = book_item.text
@@ -40,30 +42,31 @@ for book_item in book_items:
 
 	soup = bs(data, 'html.parser')
 
+	title = soup.find("h1", {"class": "o-book__title"}).get_text()
 
-	title = soup.find("h1", {"class": "o-book__title"})
-	f.write(title.get_text())
+	if title not in past_titles:
+		f.write(title)
+		past_titles.append(title)
 
+		try:
+			blurb = soup.find("div", {"class": "o-book__blurb f-landing"})
+			f.write(blurb.get_text())
 
-	try:
-		blurb = soup.find("div", {"class": "o-book__blurb f-landing"})
-		f.write(blurb.get_text())
+		except:
+			pass
 
-	except:
-		pass
+		try:
+			body = soup.find("div", {"class": "o-book__body"})
+			f.write(body.get_text())
+		except:
+			pass
 
-	try:
-		body = soup.find("div", {"class": "o-book__body"})
-		f.write(body.get_text())
-	except:
-		pass
+#	try:
+#		reviews = soup.find("div", {"class": "o-book__body-tab o-blocks o-blocks--reviews"})
+#		f.write(reviews.get_text())
 
-	try:
-		reviews = soup.find("div", {"class": "o-book__body-tab o-blocks o-blocks--reviews"})
-		f.write(reviews.get_text())
-
-	except:
-		pass
+#	except:
+#		pass
 
 browser.quit()
 f.close()
