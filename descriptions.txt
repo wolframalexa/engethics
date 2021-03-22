@@ -18,16 +18,6 @@ Kieran Healy is associate professor of sociology at Duke University. He is the a
 
 
 
-"[Healy’s] prose is engaging and chatty, and the style of instruction is unpretentious and practical . . . This single volume represents an excellent entry point for those wishing to upskill their abilities in data visualization."—Paul Cuffe, IEEE Transactions
-"Undoubtedly, this book is an excellent introduction to an essential tool for anyone who needs to collect and present data."—Conservation Biology
-“Finally! A data visualization guide that is simultaneously practical and elegant. Healy combines the beauty and insight of Tufte with the concrete helpfulness of Stack Exchange. Data Visualization is brimming with insights into how quantitative analysts can use visualization as a tool for understanding and communication. A must-read for anyone who works with data.”—Elizabeth Bruch, University of Michigan
-“Healy’s fun and readable book is unusual in covering the ‘why do’ as well as the ‘how to’ of data visualization, demonstrating how dataviz is a key step in all stages of social science—from theory construction to measurement to modeling and interpretation of analyses—and giving readers the tools to integrate visualization into their own work.”—Andrew Gelman, author of Red State, Blue State, Rich State, Poor State: Why Americans Vote the Way They Do 
-“Data Visualization is a brilliant book that not only teaches the reader how to visualize data but also carefully considers why data visualization is essential for good social science. The book is broadly relevant, beautifully rendered, and engagingly written. It is easily accessible for students at any level and will be an incredible teaching resource for courses on research methods, statistics, and data visualization. It is packed full of clear-headed and sage insights.”—Becky Pettit, University of Texas at Austin
-“Healy provides a unique introduction to the process of visualizing quantitative data, offering a remarkably coherent treatment that will appeal to novices and advanced analysts alike. There is no other book quite like this.”—Thomas J. Leeper, London School of Economics
-“Kieran Healy has written a wonderful book that fills an important niche in an increasingly crowded landscape of materials about software in R. Data Visualization is clear, beautifully formatted, and full of careful insights.”—Brandon Stewart, Princeton University
-“Healy’s prose is clear and direct. I came away from this book with a much better understanding of both visualizations and R.”—Neal Caren, University of North Carolina, Chapel Hill
-“Innovative and extraordinarily well-written.”—Jeremy Freese, Stanford University
-
 
 "[Healy’s] prose is engaging and chatty, and the style of instruction is unpretentious and practical . . . This single volume represents an excellent entry point for those wishing to upskill their abilities in data visualization."—Paul Cuffe, IEEE Transactions
 "Undoubtedly, this book is an excellent introduction to an essential tool for anyone who needs to collect and present data."—Conservation Biology
@@ -49,11 +39,6 @@ Through a set of lively anecdotes and essays, Nathaniel Borenstein traces the di
 
 
 
-
-"This book is very easy to read, and is so entertaining that it is hard to put down.... An excellent book, and a must-read for software professionals."—Choice
-"The book provides a stimulating read, with a fair sprinkling of controversial opinions from which intelligent readers . . . will draw their own conclusions."—J. Dodd, Information and Science Technology
-"This book's great glory is the author's implicit, but pervasive, notion that the human interface extends through software; and that programs are just ways that people tell computers what they should be doing. . . . [A] book filled with points to think about well before you start coding menus or screens."—UnixWorld
-"A witty look at the foibles of software engineering, based on real examples. . . . This voice of experience offers a good dose of humility to arrogant young programmers."—American Mathematical Monthly
 
 
 "This book is very easy to read, and is so entertaining that it is hard to put down.... An excellent book, and a must-read for software professionals."—Choice
@@ -87,42 +72,8 @@ This comprehensive study of dynamic programming applied to numerical solution of
 
 In less than a decade, the Internet went from being a series of loosely connected networks used by universities and the military to the powerful commercial engine it is today. This book describes how many of the key innovations that made this possible came from entrepreneurs and iconoclasts who were outside the mainstream—and how the commercialization of the Internet was by no means a foregone conclusion at its outset.Shane Greenstein traces the evolution of the Internet from government ownership to privatization to the commercial Internet we know today. This is a story of innovation from the edges. Greenstein shows how mainstream service providers that had traditionally been leaders in the old-market economy became threatened by innovations from industry outsiders who saw economic opportunities where others didn’t—and how these mainstream firms had no choice but to innovate themselves. New models were tried: some succeeded, some failed. Commercial markets turned innovations into valuable products and services as the Internet evolved in those markets. New business processes had to be created from scratch as a network originally intended for research and military defense had to deal with network interconnectivity, the needs of commercial users, and a host of challenges with implementing innovative new services.How the Internet Became Commercial demonstrates how, without any central authority, a unique and vibrant interplay between government and private industry transformed the Internet.
 
-Awards and Recognition
-
-Co-Winner of the 2016 Schumpeter Prize Competition, International Joseph A. Schumpeter Society
-
-
-
-
 
 Shane Greenstein is the Martin Marshall Professor of Business Administration and codirector of the program on the economics of digitization at the National Bureau of Economic Research. His books include Diamonds Are Forever, Computers Are Not and Standards and Public Policy.
-
-
-
-
-
-
-
-
-
-
-
-"Essential reading for anyone who wants to understand the broader context in which the explosion of Internet-related innovation occurred."—Marc Levinson, Wall Street Journal
-"A welcome, well-conceived contribution to the history of technology."—Kirkus
-"Exciting reading."—Borsen
-"Definitely recommended."—Tyler Cowen, Marginal Revolution
-"This is the best book yet about the rise of the Internet."—David Warsh, Economic Principals
-"[A] detailed history of the Internet."—Foreign Affairs
-"Immensely informative."—Philadelphia Inquirer
-"Greenstein is not simply telling a colorful and important story. His analysis systematically explores why innovation and commercialization of the Internet emerged and evolved as it did and why innovation from the edges thrived and was so important."—Jonathan David Aronson, Journal of Communication
-"A must for students and purveyors on the Internet. . . . [I]f you are interested in the dotcom boom; or how the Internet evolved to create new business models and inspired scores of new age entrepreneurs, this book will not disappoint you."—Parveen Mittal, Businessworld
-"In this important book, Greenstein draws on economics, business history, and the history of technology to tell a story of disruption on a grand scale. He shows how outsiders to the information and communications technology establishment brought the Internet from its techie origins to its current role as an economic growth engine."—Timothy Bresnahan, Stanford University
-"With this engaging account of the Internet's origins and innovative explosion, Shane Greenstein cements his claim as the foremost economic historian of digital technology. An essential read for all who want to understand the miracle of our lifetime."—Joshua Gans, University of Toronto
-"Greenstein offers a powerful and lucid account of the way the Internet's exceptional growth arose from unexceptional economic forces.How the Internet Became Commercialis a foundational read for anyone wanting to understand the origins and dynamics of the mainstream Internet."—Jonathan Zittrain, Harvard Law School
-"The Internet and its applications are transforming business and commerce. There is no economist on the planet who has done more to document its economic origins, evolution, and implications than Shane Greenstein. This book should be required reading for any serious student of the topic."—Erik Brynjolfsson, director of the MIT Initiative on the Digital Economy and coauthor of The Second Machine Age
-"The Internet has affected our lives profoundly over the past quarter-century. Yet far too often, its features are taken as given, without understanding the genesis of this critical innovation. Shane Greenstein's book lucidly illustrates the key decisions behind today's Internet, and offers lessons for innovation policy more generally."—Josh Lerner, Harvard Business School
-"Greenstein has written one of the most important books available about how the Internet came into existence, commercialized, and became so important in American life. It will be the standard work on the subject for many years. It is also a great read."—James W. Cortada, author of The Essential Manager: How to Thrive in the Global Information Jungle
-"This book starts at the moment when most histories of the Internet end, providing a comprehensive and engaging explanation of how an academically oriented research network transformed so quickly and completely into the commercial infrastructure of the early twenty-first century."—Nathan L. Ensmenger, author of The Computer Boys Take Over: Computers, Programmers, and the Politics of Technical Expertise
 
 
 "Essential reading for anyone who wants to understand the broader context in which the explosion of Internet-related innovation occurred."—Marc Levinson, Wall Street Journal
@@ -146,39 +97,8 @@ Shane Greenstein is the Martin Marshall Professor of Business Administration and
 
 What happens when a naive intern is granted unfettered access to people’s most private thoughts and actions? Stephen Thorpe lands a coveted internship at Ubatoo, an Internet empire that provides its users with popular online services, from a search engine and e-mail, to social networking. When Stephen’s boss asks him to work on a project with the American Coalition for Civil Liberties, Stephen innocently obliges, believing he is mining Ubatoo’s vast databases to protect people unfairly targeted in the name of national security. But nothing is as it seems. Suspicious individuals surface, doing all they can to access Ubatoo’s wealth of confidential information. This need not require technical wizardry—simply knowing how to manipulate a well-intentioned intern may be enough. The Silicon Jungle is a cautionary fictional tale of data mining’s promise and peril. Baluja raises ethical questions about contemporary technological innovations, and how minute details can be routinely pieced together into rich profiles that reveal our habits, goals, and secret desires—all ready to be exploited.
 
-Awards and Recognition
-
-Co-Winner of the 2012 Mary Shelley Award for Outstanding Fictional Work, Media Ecology Association
-
-
-
-
 
 Shumeet Baluja is a senior staff research scientist at Google and the inventor of over 100 patents in algorithms, data mining, privacy, and artificial intelligence.
-
-
-
-
-
-
-
-
-
-
-
-"Baluja's clever, cynical debut explores the frightening possibilities of data mining. . . . A nod to Upton Sinclair's muckraking The Jungle, which scared its readers into regulating the meat-packing industry, this lively if depressing novel suggests that computer snooping is too seductive to control, despite the consequences."—Publishers Weekly
-"[F]righteningly convincing. . . . The read is quick, the questions will linger, and the ideas are so intriguing. . . . Baluja simplifies the abstract world of tech-speak for the rest of us while aiming to do for the Internet what Upton Sinclair's The Jungle did for the meat industry: make readers reconsider its safety. For fans of intelligent thrillers."—Stephen Morrow, Library Journal
-"In the era of the ubiquitous web company, The Silicon Jungle provides ample food for thought."—Zena Iovino, New Scientist
-"[T]his cautionary tale is fascinating for its exploration of technology as a conduit for crime."—Michele Leber, Booklist Online
-"The book's central message is fascinating. A company like Google, Baluja points out, has far more information on U.S. citizens than does the FBI and far fewer restrictions on how to use it. It's a chilling message in a fun package."—Kathleen Offenholley, Mathematics Teacher
-"A cerebral, cautionary tale. Credible and scary."—Vint Cerf, Google Vice President and Chief Internet Evangelist and one of the "Fathers of the Internet"
-"At last, computer science has its equivalent to Scott Turow. Shumeet Baluja not only tells a compelling story, but as an expert in data mining, he also knows his stuff. His story shows how powerful and far-reaching modern search technology can be, and hence, potentially dangerous if not properly controlled. A techno-thriller with a disturbing message."—Keith Devlin, author of The Unfinished Game: Pascal, Fermat, and the Seventeenth-Century Letter that Made the World Modern
-"Clever and prophetic. The Silicon Jungle will be required reading from Silicon Valley to Washington, DC."—Marc Rotenberg, Electronic Privacy Information Center
-"The Silicon Jungle is an engaging and welcome addition to the literature of dystopia. The connections drawn between people, places, products, and internet usage, as well as the data-mining scientists in this suspenseful and alarming novel, show us that the decline of individual freedoms can occur not through weapons and coups, but through profiles germinated from algorithmic seeds."—Gary T. Marx, author of Undercover: Police Surveillance in America
-"This novel will open your eyes to issues of privacy on the internet and to the hazards of placing uncritical, blind trust in the people overseeing this vast enterprise. Baluja tells a story about something that could happen to any of us—if you're even modestly concerned about information privacy, this is an important book to read."—Roy Maxion, Carnegie Mellon University
-"The Silicon Jungle expertly explores a major 'what if' that should interest anyone who has ever used a cell phone or Wi-Fi connection, or typed a keystroke on a computer connected to the internet. The story is intriguing, well researched, well written, and frighteningly probable. A delightfully entertaining and thought-provoking read for all."—Retired Senior Official, National Security Agency
-"This novel does an excellent job of introducing the ideas behind data mining and provides greater insight into the process than anything I have seen in fiction. The book presents a number of important issues, both technical and social."—Joseph D. Sloan, Wofford College
-
 
 "Baluja's clever, cynical debut explores the frightening possibilities of data mining. . . . A nod to Upton Sinclair's muckraking The Jungle, which scared its readers into regulating the meat-packing industry, this lively if depressing novel suggests that computer snooping is too seductive to control, despite the consequences."—Publishers Weekly
 "[F]righteningly convincing. . . . The read is quick, the questions will linger, and the ideas are so intriguing. . . . Baluja simplifies the abstract world of tech-speak for the rest of us while aiming to do for the Internet what Upton Sinclair's The Jungle did for the meat industry: make readers reconsider its safety. For fans of intelligent thrillers."—Stephen Morrow, Library Journal
@@ -203,15 +123,6 @@ Between inventing the concept of a universal computer in 1936 and breaking the G
 Andrew W. Appel is the Eugene Higgins Professor and Chairman of the Department of Computer Science at Princeton University.
 
 
-
-
-
-
-"This book presents the story of Turing's work at Princeton University and includes a facsimile of his doctoral dissertation, 'Systems of Logic Based on Ordinals,' which he completed in 1936. The author includes a detailed history of Turing's work in computer science and the attempts to ground the field in formal logic."—Mathematics Teacher
-"This book is not for the faint hearted, as with the great masters of painting it will insist that some thought goes into appreciating it. . . . I love the book as a book. It is a collectors item and after all what better pursuit can one have than collecting books!"—Patrick Fogarty, Mathematics Today
-"For me, this is the most interesting of Alan Turing's writings, and it is a real delight to see a facsimile of the original typescript here. The work is packed with ideas that have turned out to be significant for all sorts of current research areas in computer science and mathematics."—Barry Cooper, University of Leeds
-
-
 "This book presents the story of Turing's work at Princeton University and includes a facsimile of his doctoral dissertation, 'Systems of Logic Based on Ordinals,' which he completed in 1936. The author includes a detailed history of Turing's work in computer science and the attempts to ground the field in formal logic."—Mathematics Teacher
 "This book is not for the faint hearted, as with the great masters of painting it will insist that some thought goes into appreciating it. . . . I love the book as a book. It is a collectors item and after all what better pursuit can one have than collecting books!"—Patrick Fogarty, Mathematics Today
 "For me, this is the most interesting of Alan Turing's writings, and it is a real delight to see a facsimile of the original typescript here. The work is packed with ideas that have turned out to be significant for all sorts of current research areas in computer science and mathematics."—Barry Cooper, University of Leeds
@@ -233,33 +144,6 @@ One of The Guardian’s Best Popular Physical Science Books of 2014, chosen by G
 
 Andrew Hodges teaches mathematics at the University of Oxford.
 
-
-
-
-
-
-"Scrupulous and enthralling."—A. O. Scott, New York Times
-"One of the finest scientific biographies ever written."—Jim Holt, New Yorker
-"Andrew Hodges' 1983 book Alan Turing: The Enigma, is the indispensable guide to Turing's life and work and one of the finest biographies of a scientific genius ever written."—Michael Hiltzik, Los Angeles Times
-"Turing's rehabilitation from over a quarter-century's embarrassed silence was largely the result of Andrew Hodges's superb biography, Alan Turing: The Enigma (1983; reissued with a new introduction in 2012). Hodges examined available primary sources and interviewed surviving witnesses to elucidate Turing's multiple dimensions. A mathematician, Hodges ably explained Turing's intellectual accomplishments with insight, and situated them within their wider historical contexts. He also empathetically explored the centrality of Turing's sexual identity to his thought and life in a persuasive rather than reductive way."—Michael Saler, Times Literary Supplement
-"On the face of it, a richly detailed 500-page biography of a mathematical genius and analysis of his ideas, might seem a daunting proposition. But fellow mathematician and author Hodges has acutely clear and often extremely moving insight into the humanity behind the leaping genius that helped to crack the Germans' Enigma codes during World War II and bring about the dawn of the computer age. . . . This melancholy story is transfigured into something else: an exploration of the relationship between machines and the soul and a full-throated celebration of Turing's brilliance, unselfconscious quirkiness and bravery in a hostile age."—Sinclair McKay, Wall Street Journal
-"A first-class contribution to history and an exemplary work of biography."—I. J. Good, Nature
-"An almost perfect match of biographer and subject. . . . [A] great book."—Ray Monk, Guardian
-"A superb biography. . . . Written by a mathematician, it describes in plain language Turing's work on the foundations of computer science and how he broke the Germans' Enigma code in the Second World War. The subtle depiction of class rivalries, personal relationships, and Turing's tragic end are worthy of a novel. But this was a real person. Hodges describes the man, and the science that fascinated him—which once saved, and still influences, our lives."—Margaret Boden, New Scientist
-"Andrew Hodges's magisterial Alan Turing: The Enigma . . . is still the definitive text."—Joshua Cohen, Harper's
-"Andrew Hodges's biography is a meticulously researched and written account detailing every aspect of Turing's life. . . . This account of Turing's life is a definitive scholarly work, rich in primary source documentation and small-grained historical detail."—Mathematics Teacher
-"Tells a powerful story that combines professional success and personal tragedy."—Nancy Szokan, Washington Post
-"[A] really excellent biography. . . . The great thing about this book is that the author is a mathematician and can explain the details of Turing's work—as a scientist, mathematician, and a code breaker—in a way that is easy to understand. He is also wonderful at the emotional nuance of Alan's life, who was a somewhat odd—a student was assigned to him in school to help him maintain a semblance of tidiness in his appearance, rooms and school work and at Bletchley Park he was known for chaining his tea mug to a pipe—but he was also charming and intelligent and Hodges brings all the aspects of his personality and life into sharp focus."—Off the Shelf
-"This book is an incredibly detailed and meticulously researched biography of Alan Turing. Reading it is a melancholy experience, since you know from the outset that the ending is a tragic one and that knowledge overshadows you throughout. While the author divides the text into two parts, it actually reads like a play in four acts. . . . This book is Turing's memorial, and one that does justice to the subject."—Katherine Safford-Ramus, MAA Reviews
-"The new paperback edition of the 1983 book that inspired the film, with an updated introduction by Oxford mathematics professor Andrew Hodges, is an exhilarating, compassionate and detailed biography of a complicated man."—Jane Ciabattari, BBC
-"If [The Imitation Game] does nothing else but send you, as it did me, to Alan Hodges's Alan Turing: The Enigma (1983, newly prefaced in the 2014 Princeton University Press edition) it more than justifies its existence. A great read, Hodges's intellectual biography depicts Turing as a brilliant mathematician; a crucial pioneering figure in the theorization and engineering of digital computing; and the biggest brain in Bletchley Park's Hut #8."—Amy Taubin, Artforum
-"It is indeed the ultimate biography of Alan Turing. It will bring you as close as possible to his enigmatic personality."—Adhemar Bultheel, European Mathematical Society
-"A book whose time has finally come. I found it to be a page-turner in spite of the occasionally esoteric explanations of mathematical theories that reminded of why Brooklyn Technical High School was not the wisest choice for me."—Terrance, Paris Readers Circle
-"Thanks to the movie The Imitation Game, Alan Turing has emerged from history's shadows, where his memory had languished for decades. For anyone whose interest in the pioneering computer scientist, mathematician, and logician was piqued by the film, the book that served as the film's source material, Andrew Hodges's exhaustive biography Alan Turing: The Enigma, has the answers."—Frank Caso, Simply Charly
-"One of the finest scientific biographies I've ever read: authoritative, superbly researched, deeply sympathetic, and beautifully told."—Sylvia Nasar, author of A Beautiful Mind
-"A captivating, compassionate portrait of a first-rate scientist who gave so much to a world that in the end cruelly rejected him. Perceptive and absorbing, Andrew Hodges's book is scientific biography at its best."—Paul Hoffman, author of The Man Who Loved Only Numbers
-"A remarkable and admirable biography."—Simon Singh, author of The Code Book and Fermat's Enigma
-"A first-rate presentation of the life of a first-rate scientific mind.... It is hard to imagine a more thoughtful and compassionate portrait of a human being."—from the Foreword by Douglas Hofstadter
 
 
 "Scrupulous and enthralling."—A. O. Scott, New York Times
@@ -326,21 +210,6 @@ David L. Hu is associate professor of mechanical engineering and biology and adj
 
 
 
-“With infectious enthusiasm and curiosity, David Hu asks why natural selection may have favored one design over another. From flying snakes to the eyelashes of giraffes, he sees mechanical challenges everywhere, and his crazy experiments help us understand how animals dry their bodies, move, pee, and eat.”—Frans de Waal, author of Are We Smart Enough to Know How Smart Animals Are?
-“I recommend this book to all interested in biology and nature-inspired engineering. They will learn much and be marvelously entertained.”—Bert Hölldobler, coauthor of The Ants
-“Read this fascinating book to learn how sharks move, why an elephant doesn’t take longer to empty its bladder than a human does, how mosquitoes fly in the rain, and how cockroaches avoid bumping into walls in the dark. Read it too to learn why the study of these seemingly obscure corners of the living world has the potential to offer enormous benefits to humanity.”—Rob Dunn, author of Never Out of Season
-“This clear and engaging book introduces readers to the study of animal motion and mechanics. Demonstrating the effectiveness of an interdisciplinary approach to the analysis of animal structure and function, the book balances attention to pure science and discoveries about fundamental aspects of the natural world with a consideration of how research in this area could contribute to new technologies.”—Sharon Swartz, Brown University 
-
-
-
-
-
-
-
-
-
-
-
 
 
 “With infectious enthusiasm and curiosity, David Hu asks why natural selection may have favored one design over another. From flying snakes to the eyelashes of giraffes, he sees mechanical challenges everywhere, and his crazy experiments help us understand how animals dry their bodies, move, pee, and eat.”—Frans de Waal, author of Are We Smart Enough to Know How Smart Animals Are?
@@ -370,15 +239,6 @@ Leiba Rodman is professor of mathematics at the College of William & Mary. His b
 
 
 
-
-
-"Rodman fills a void in the monographic literature with this work."—Choice
-"The book is self-contained and well organized. . . . Full and detailed proofs are supplied. Another exciting point is the presence of many open problems throughout the book."—Gisele C. Ducati, MatchSciNet
-"[This book] will be an important reference for years to come for both researchers in the field of linear algebra and scientists who apply quaternions."—Ch. Baxa, Zentralblatt Math
-"This is a very serious treatise by an author who is a powerful researcher and a clear expositor. I know of no other book that treats both the basic theory and advanced material as carefully and as comprehensively as this one. Topics in Quaternion Linear Algebra is a singular contribution of considerable value."—Douglas R. Farenick, author of Algebras of Linear Transformations
-"This unique book brings under one cover various recent results obtained by Rodman, several of his collaborators, and other researchers. In addition to general topics in quaternionic linear algebra, it treats extensively the canonical forms of several types of quaternionic matrix pencils and the quaternionic numerical ranges of matrices. "—Dragomir Djokovic, distinguished professor emeritus, University of Waterloo
-
-
 "Rodman fills a void in the monographic literature with this work."—Choice
 "The book is self-contained and well organized. . . . Full and detailed proofs are supplied. Another exciting point is the presence of many open problems throughout the book."—Gisele C. Ducati, MatchSciNet
 "[This book] will be an important reference for years to come for both researchers in the field of linear algebra and scientists who apply quaternions."—Ch. Baxa, Zentralblatt Math
@@ -399,40 +259,6 @@ One of Choice's Outstanding Academic Titles for 2014
 
 
 Tim Chartier is associate professor of mathematics at Davidson College. He is the coauthor of Numerical Methods (Princeton).
-
-
-
-
-
-
-"[Math Bytes] manages to fulfill its aim of providing a 'tasty byte of math and computing' while following a clear, concise, and to-the-point format. . . . [P]rovides interesting insights to some of the complex, highly sophisticated algorithms that lie behind some of our most widely used technological resources."—Rachael Skyner, Science
-"The author's humanistic, sincere enjoyment of communicating his selections permeates and I think defines the book. . . . The choice of topics and exposition details make the book entertainingly relevant."—Alexander Bogomolny, Cut the Knot
-"Math Bytes is fun and full of puzzles and brainteasers in a mashup of mathematics, social media, and pop culture referencing Beyoncé, Google, and Twitter among others. . . . This reviewer is simply a fool for math puzzles (though some readers might stop at simply a fool). Math Bytes scratches that itch quite nicely."—Robert Schaefer, New York Journal of Books
-"Printed on glossy paper and filled with colourful photographs, illustrations and diagrams on nearly every page, this book discusses mathematical ideas that can help us make sense of the digital world. The author's offbeat viewpoint comes from a truly unusual background; he studied mime with the legendary Marcel Marceau whilst pursuing his doctorate in applied maths."—Devorah Bennu, GrrlScientist
-"Tim Chartier, a professor of mathematics at Davidson College, has put together a delightful book of recreational mathematics. His presentation of a large array of topics is accompanied by excellent graphics, many in color. . . . In sum, a fun book."—Philip J. Davis, SIAM News
-"The mathematical topics are interesting and informative; if you teach at the college level, you are likely to find some interesting fodder for your courses here. You also may, as I did, learn some new things yourself. . . . This book, which is filled with photos, drawings, and anecdotes, is a treasure trove of amusing mathematical vignettes. It makes for very pleasant summer reading."—Mark Hunacek, MAA Reviews
-"The reader is constantly challenged to think about it or answer certain questions and to solve some problems (some solutions are provided at the end). Most of all, it's such a lovely little booklet that does not give you the time to get bored with. The average chapter length, including the many illustrations, is only 10 pages. Just enough to catch your interest and get bitten by the mathematics."—A. Bultheel, European Mathematical Society
-"For readers who love math, computing and puzzles, Math Bytes will be a welcome gift."—George Erdosh, San Francisco Book Review
-"[L]ively and entertaining book. . . . All of the applications are presented in an accessible and engaging way, enabling beginners and advanced readers alike to learn and explore at their own pace—a bit and a byte at a time."—Zentralblatt MATH
-"A mathematical Pandora's box released is perhaps the best way to describe this book. It overflows with ideas, flitting from one fascinating topic to the next, often without an apparent connection. The range is impressive. . . . Everyone should find a 'math byte' of interest in this book, and perhaps end up finding other topics of interest as well."—Choice
-"I definitely learnt a few new things and was entertained as I did so. Furthermore, anything that spreads the message that mathematics is both interesting and useful has to be a good thing, so I wish this book success."—Rob Ashmore, Mathematics Today
-"A fun collection of mathematical applications that has something for everyone, even mathphobes."—Anne Quinn, National Council of Teachers of Mathematics
-"The book would also be a good read for anyone who needs reaffirmation that the bedrock of computing is mathematics. The author makes this point in a vibrant and contemporary way."—Vincent Ting, Mathematical Gazette
-"This is possibly the first book I’ve ever read which could truly be described as a ‘gem’. . . . I have rarely come across a book which crams so many ideas so well into so few pages, and it is full of delights."—Alasdair McAndrew, Gazette of the Australian Mathematical Society
-"How can you tell, by just looking, that 178212 + 184112 = 192212 is not a true statement? When you search for something on the web, how does Google know how to respond with the most relevant hits first? Chartier tells you how in this book. Each new discussion illustrates the almost supernatural explanatory nature of mathematics, promising many hours of enjoyment."—Paul J. Nahin, author of Will You Be Alive 10 Years from Now?: And Numerous Other Curious Questions in Probability
-"A magnificent and curious romp through a wonderful array of mathematical topics and applications: maze creation, Google's PageRank algorithm, doodling, the traveling salesman problem, math on The Simpsons, Fermat's Last Theorem, viral tweets, fractals, and so much more. Buy this book and feed your brain."—Clifford A. Pickover, author of The Math Book
-"Math Bytes is a playful and inviting collection of interesting mathematical examples and applications, sometimes in surprising places. Many of these applications are unique or put a new spin on things. The link to computing helps make many of the topics tangible to a general audience."—Matt Lane, creator of the Math Goes Pop! Blog
-"Readable and fun. There are few books like this one that engage with mathematics at this level of accessibility and tie into real-world contexts in a humorous yet rigorous way. Math Bytes reinforces the excitement of mathematics and its relevance to modern culture."—Peter McOwan, Queen Mary, University of London
-
-
-
-
-
-          Resources
-      
-
-
-Chapter 1
 
 
 
@@ -467,39 +293,6 @@ Angela B. Shiflet is the Larry Hearn McCalla Professor of Mathematics and Comput
 
 
 
-
-
-
-"The first edition of this book had received very positive feedback and was warmly welcomed by the mathematical community. It is very good news for all us is that the second revised edition is even better!"—Svitlana P. Rogovchenko, Zentralblatt MATH
-"Praise for the previous edition: "The heart of Introduction to Computational Science is a collection of modules. Each module is either a discussion of a general computational issue or an investigation of an application. . . . [This book] has been carefully and thoughtfully written with students clearly in mind.""—William J. Satzer, MAA Reviews
-"Praise for the previous edition: "Introduction to Computational Science is useful for students and others who want to obtain some of the basic skills of the field. Its impressive collection of projects allows readers to quickly enjoy the power of modern computing as an essential tool in building scientific understanding.""—Wouter van Joolingen, Physics Today
-"Praise for the previous edition: "A masterpiece. I know of nothing comparable. I give it five stars.""—James M. Cargal, UMAP Journal
-"Praise for the previous edition: "This is an important book with a wonderful collection of examples, models, and references.""—Robert M. Panoff, Shodor Education Foundation
-"Praise for the previous edition: "This is a very good introduction to the field of computational science.""—Peter Turner, Clarkson University
-"Despite its substantial weight, the book is extremely user friendly. . . . There are many different courses that one could build with this book as foundation, and it is an indispensible resource for anyone seeking to bring modeling projects into their classes."—David M. Bressoud, UMAP Journal
-
-
-
-
-
-          Resources
-      
-
-
-Table of Contents
-
-
-Preface
-
-
-Chapter 1
-
-
-Chapter 2
-
-
-
-
 "The first edition of this book had received very positive feedback and was warmly welcomed by the mathematical community. It is very good news for all us is that the second revised edition is even better!"—Svitlana P. Rogovchenko, Zentralblatt MATH
 "Praise for the previous edition: "The heart of Introduction to Computational Science is a collection of modules. Each module is either a discussion of a general computational issue or an investigation of an application. . . . [This book] has been carefully and thoughtfully written with students clearly in mind.""—William J. Satzer, MAA Reviews
 "Praise for the previous edition: "Introduction to Computational Science is useful for students and others who want to obtain some of the basic skills of the field. Its impressive collection of projects allows readers to quickly enjoy the power of modern computing as an essential tool in building scientific understanding.""—Wouter van Joolingen, Physics Today
@@ -529,11 +322,6 @@ Joshua M. Epstein directs the Center for Advanced Modeling at The Johns Hopkins 
 "This is social science based on how our brains actually work. Epstein's computerized 'agents' can feel passion and fear, and can influence each other emotionally. And when they interact, we see many of the realities of social life, from the dynamics of juries to racist violence to Arab springs. A remarkable and original piece of work."—W. Brian Arthur, Santa Fe Institute
 
 
-"Agent Zero offers a solution to some of social science's great puzzles. Its behavioral basis is the interplay of emotion, cognition, and network contagion effects. It elegantly explains why so many human actions are so manifestly dysfunctional, and why some are downright evil."—George Akerlof, Nobel Laureate in Economics
-"Rarely has a book stimulated me intellectually as much as this one. Particularly exciting is the incorporation of agents who feel (affect) and deliberate, as well as influence one another through social interaction. Epstein is a brilliantly creative scholar and the range of applications showcased here is stunning. In sum, this is a pathbreaking book."—Paul Slovic, University of Oregon
-"Joshua Epstein proposes a parsimonious but powerful model of individual behavior that can generate an extraordinary range of group behaviors, including mob violence, manias and financial panics, rebellions, network dynamics, and a host of other complex social phenomena. This is a highly original, beautifully conceived, and important book."—Peyton Young, University of Oxford
-"In social science generally and most notably in economics, the rational actor model has long been the benchmark for policy analysis and institutional design. Epstein now offers a worthy alternative: Agent_Zero, a mathematically and computationally tractable agent whose inner workings are grounded in neuroscience. Much like you and me, Agent_Zero is influenced by emotion, reason, and social pressures. Epstein demonstrates that collections of Agent Zeros perform amazingly like real groups, teams, and societies and can therefore serve as the fundamental building blocks for what he calls Generative Social Science. The rational actor now has a true competitor. Agent_Zero is a major advance."—Scott Page, University of Michigan
-"This is social science based on how our brains actually work. Epstein's computerized 'agents' can feel passion and fear, and can influence each other emotionally. And when they interact, we see many of the realities of social life, from the dynamics of juries to racist violence to Arab springs. A remarkable and original piece of work."—W. Brian Arthur, Santa Fe Institute
 
       			Three Views of Logic: Mathematics, Philosophy, and Computer Science The first interdisciplinary textbook to introduce students to three critical areas in applied logic
 
@@ -546,29 +334,6 @@ Donald W. Loveland is professor emeritus of computer science at Duke University 
 
 
 
-
-
-
-"A well-written text with challenging exercises, proofs of important theorems, and a modern integrated approach."—Choice
-"The book can serve as material for a course that teaches the role of logic in several disciplines. It can also be used as a supplementary text for a logic course that emphasizes the more traditional topics of logic but wishes to include a few special topics. Moreover, it can be a valuable resource for researchers and academics."—Roman Murawski, Zentralblatt MATH
-"It's always interesting to find a text that reimagines, and offers a novel approach to, a fairly standard subject. This book does that for logic. . . . There is a lot of interesting and well-presented material found here that cannot be easily found elsewhere in a book at this level."—Mark Hunacek, Mathematical Association of America blog
-"An instructor of a logic course offered by a mathematics department who is interested in some experimentation will undoubtedly find this book quite rewarding. . . . Even an instructor who is not planning to teach a course along these lines, but who is interested in the subject, will want to look at this text; there is a lot of interesting and well-presented material found here that cannot be easily found elsewhere in a book at this level."—Mark Hunacek, MAA blog
-"Formal logic should no longer be taught as a course within a single subject area, but should be taught from an interdisciplinary perspective. Three Views of Logic has many fine features and combines materials not found together elsewhere. We have needed an accessible textbook like this one for quite some time."—Hans Halvorson, Princeton University
-"This concise, precise, and clear textbook is unique in the range of material covered and the level at which it is written, which is intended for undergraduates. The exercises are a considerable help to the student and the examples are useful and interesting."—David Plaisted, University of North Carolina, Chapel Hill
-"Loveland, Hodel, and Sterrett are all internationally recognized and leading researchers in their field. Their new textbook gives an excellent introduction to the resolution of propositional and first-order predicate logic, and an outstanding overview of computability theory. The examples and exercises are well chosen, and the material is accessible to students without a logic background."—Frank Wolter, University of Liverpool
-
-
-
-
-
-          Resources
-      
-
-
-Preface
-
-
-Chapter 1
 
 
 
@@ -611,17 +376,6 @@ Kelly Moore is assistant professor of sociology at the University of Cincinnati.
 "Kelly Moore's book is a significant scholarly achievement and will be an important and much-cited work in the sociology and social studies of science. Moore not only advances how we conceive of the politics that scientists engage in, but she also more clearly spells out the protest activities of the 1960s and places science near the center of their concerns."—David H. Guston, author of Between Politics and Science: Assuring the Integrity and Productivity of Research
 "This is a truly excellent book by a thoughtful scholar. Moore's theoretical development is compelling and her concepts are of use beyond the empirical terrain she covers in the book. What's more, she shows that it is worth looking at social movements that focus on institutions like science and studying these movements' effects on meanings and orientation, not just policies."—Daniel Lee Kleinman, editor of Science, Technology, and Democracy
 
-
-"In Disrupting Science, Kelly Moore attempts to explain how scientists' attitudes about the proper role of science and scientists in public life changed so dramatically within two generations....Moore's well-researched account introduces the pacifists, petition writers, newsletter publishers, and protestors—who doggedly drew attention to the ways that militarism was infiltrating the practice of science in the United States."—Audra J. Wolfe, Science
-"Disrupting Science is an important scholarly addition to the literature in the sociology of science and history of science.  The book's examination of archival sources shows a complex relationship between scientists and the military from 1945 to 1975."—G.D. Oberle, Choice
-"The book prompts intriguing questions about the professional role, the boundaries by which it is constituted, and the potential consequences of overstepping those boundaries."—Joseph C. Hermanowicz, American Journal of Sociology
-"As the U.S. government's budget for national and homeland security approaches three-quarters of a trillion dollars in fiscal year 2009, and the roles of science and technology continue to expand in our daily lives, our collective need for nuanced studies of the relations between the military and science is ever more pressing. Moore's thoughtful study points the way."—William J. Astore, H-Net Reviews
-"Disrupting Science is first rate work. . . . Moore's account serves as an exemplary case study in what she and Scott Frickel have billed in their 2006 book as 'the new political sociology of science.' I expect her new book to be read widely across the discipline."—Steven Epstein, Mobilization
-"Moore's book is very well-written, scholarly, and impeccably organized, making it a useful reference tool. It is relevant to those interested in political sociology, the 'fact-value' debate in the philosophy of science, questions of science and ideology, and science studies."—Ronjon Paul Datta, Canadian Journal of Sociology
-"Useful for academics studying the history of science and social movements, this book offers an interesting, unique, and insightful look at the role of scientists in challenging the boundaries of their own expertise and positions of influence. From scientists as elite experts to science 'for the people,' this work offers a captivating glimpse as social movement activists among scientists during this time in history."—Chelsea Schelly, Social Science Journal
-"Kelly Moore's book is a significant scholarly achievement and will be an important and much-cited work in the sociology and social studies of science. Moore not only advances how we conceive of the politics that scientists engage in, but she also more clearly spells out the protest activities of the 1960s and places science near the center of their concerns."—David H. Guston, author of Between Politics and Science: Assuring the Integrity and Productivity of Research
-"This is a truly excellent book by a thoughtful scholar. Moore's theoretical development is compelling and her concepts are of use beyond the empirical terrain she covers in the book. What's more, she shows that it is worth looking at social movements that focus on institutions like science and studying these movements' effects on meanings and orientation, not just policies."—Daniel Lee Kleinman, editor of Science, Technology, and Democracy
-
       			Neural Networks and Animal Behavior		
 
 How can we make better sense of animal behavior by using what we know about the brain? This is the first book that attempts to answer this important question by applying neural network theory. Scientists create Artificial Neural Networks (ANNs) to make models of the brain. These networks mimic the architecture of a nervous system by connecting elementary neuron-like units into networks in which they stimulate or inhibit each other’s activity in much the same way neurons do. This book shows how scientists can employ ANNs to analyze animal behavior, explore the general principles of the nervous systems, and test potential generalizations among species. The authors focus on simple neural networks to show how ANNs can be investigated by math and by computers. They demonstrate intuitive concepts that make the operation of neural networks more accessible to nonspecialists. The first chapter introduces various approaches to animal behavior and provides an informal introduction to neural networks, their history, and their potential advantages. The second chapter reviews artificial neural networks, including biological foundations, techniques, and applications. The following three chapters apply neural networks to such topics as learning and development, classical instrumental condition, and the role of genes in building brain networks. The book concludes by comparing neural networks to other approaches. It will appeal to students of animal behavior in many disciplines. It will also interest neurobiologists, cognitive scientists, and those from other fields who wish to learn more about animal behavior.
@@ -642,10 +396,6 @@ Magnus Enquist is Professor of Ethology in the Department of Zoology at Stockhol
 "This book shows how neural net models can improve our understanding of animal behavior. It offers an accessible introduction to the general approach while covering a wide range of topics."—Alasdair Houston, University of Bristol
 
 
-"Neural Networks and Animal Behavior will interest students of animal behavior, cognitive scientists, engineers, and anyone working with neural networks. In a real way, this book is a bridge across the disciplines, constructing connections between animal behavior theories to other modes of understanding."—Biology Digest
-"This is a timely contribution to the field that should mark a turning point in the use of neural networks in animal behavior research."—Richard Peters, Animal Behaviour
-"This book will make a major contribution to the field of animal behavior. The explanations are clear and the math transparent. Anyone who viewed artificial neural networks as mysterious black boxes will have their minds changed."—Michael J. Ryan, University of Texas, Austin
-"This book shows how neural net models can improve our understanding of animal behavior. It offers an accessible introduction to the general approach while covering a wide range of topics."—Alasdair Houston, University of Bristol
 
       			Individual-based Modeling and Ecology		
 
@@ -660,14 +410,6 @@ Volker Grimm is a Senior Researcher at the UFZ Centre for Environmental Research
 
 
 
-
-"The authors establish an effective and coherent framework for using individual-based modelling."—Nikita Y. Ratanov, Mathematical Reviews
-"An excellent book, which aims to invigorate individual-based modeling . . .  by providing a clear theoretical framework for the subject—which they term individual-based ecology (IBE)—and a step-by-step guide to creating individual-based models (IBMs) within this framework. . . . I think this is a very timely book, and I recommend it to anyone new or old to the subject."—Richard Stillman, Quarterly Review of Biology
-"The book very successfully link[s] various 'universes' ranging from fundamental concepts in ecology and complex systems research to hands-on technical and recipe-like suggestions on how to build a model, illustrated with numerous, well-chosen examples."—Janine Bolliger, Landscape Ecology
-"For anyone who wants to know more about and possibly incorporate IBMs in his own research, this book provides plenty of advice and guidance on how to formulate, analyze, and use such models. If IBMs do ultimately reach the potential envisioned by the authors, their seminal book will have done much to contribute to that success."—Jim M. Cushing, Zentralblatt MATH
-"This book establishes an effective and coherent conceptual and technical framework for individual-based modeling with the objective to develop and illustrate an approach for addressing how individual behaviors and system dynamics emerge from lower-level traits."—Janine Bolliger, Landscape Ecology
-"Given the solid conceptual foundation of the book and the wide range of IBM applications in fish ecology, I think that many fish biologists will find this book very useful and I recommend it warmly."—Geir Huse, Fish and Fisheries
-"This seminal book truly deserves to be called the founding text for the growing field of individual-based modeling and the broader program of individual-based ecology. Core procedures and standards for formulating, parameterizing, testing, and communicating such models have long been lacking. Even the basic definitions have been missing. In one stroke, Grimm and Railsback provide all of those things. Thus, individual-based modeling now has a foundation no less firm than the foundation of classical mathematical ecology."—Don DeAngelis, Biological Resources Division, U.S. Geological Survey, and University of Miami; author of Dynamics of Nutrient Cycling and Food Webs
 
 
 "The authors establish an effective and coherent framework for using individual-based modelling."—Nikita Y. Ratanov, Mathematical Reviews
@@ -698,11 +440,6 @@ Gary A. Glatzmaier is professor of earth and planetary sciences at the Universit
 "I am certain that this book will prove to be extremely useful to students and professionals alike. It is engagingly written, timely, comprehensive, and perhaps most importantly, graduated in its approach. Gary Glatzmaier is internationally recognized as one of the best computational scientists in geophysics and astrophysics."—Peter L. Olson, Johns Hopkins University
 
 
-"This book provides readers with the skills they need to write computer codes that simulate convection, internal gravity waves and magnetic field generation in the interiors and atmospheres of rotating planets and stars. It is very useful for readers having a basic understanding of classical physics, vector calculus, partial differential equations, and simple computer programming."—Claudia-Veronika Meister, Zentralblatt MATH
-"Glatzmaier's work is synonymous with the cutting edge of research in this field, and his tried-and-true presentation has been perfected over many years of teaching. I know of no other book that focuses on computer modeling of convection in planets and stars as this one does. It is an ideal tutorial for graduate students, and will also be of great interest to senior researchers."—James M. Stone, Princeton University
-"The computational methods Glatzmaier describes can be applied to a huge range of nonlinear problems, with a variety of physical effects. There is a great deal of potential here for new investigations. In fact, our generation has barely scratched the surface! This is an important message for young scientists, who will find in this book some of the tools they will need to make future advances in astrophysics and geophysics."—Chris A. Jones, University of Leeds
-"I am certain that this book will prove to be extremely useful to students and professionals alike. It is engagingly written, timely, comprehensive, and perhaps most importantly, graduated in its approach. Gary Glatzmaier is internationally recognized as one of the best computational scientists in geophysics and astrophysics."—Peter L. Olson, Johns Hopkins University
-
       			When Computers Were Human		
 
 Before Palm Pilots and iPods, PCs and laptops, the term “computer” referred to the people who did scientific calculations by hand. These workers were neither calculating geniuses nor idiot savants but knowledgeable people who, in other circumstances, might have become scientists in their own right. When Computers Were Human represents the first in-depth account of this little-known, 200-year epoch in the history of science and technology.  Beginning with the story of his own grandmother, who was trained as a human computer, David Alan Grier provides a poignant introduction to the wider world of women and men who did the hard computational labor of science. His grandmother’s casual remark, “I wish I’d used my calculus,” hinted at a career deferred and an education forgotten, a secret life unappreciated; like many highly educated women of her generation, she studied to become a human computer because nothing else would offer her a place in the scientific world.  The book begins with the return of Halley’s comet in 1758 and the effort of three French astronomers to compute its orbit. It ends four cycles later, with a UNIVAC electronic computer projecting the 1986 orbit. In between, Grier tells us about the surveyors of the French Revolution, describes the calculating machines of Charles Babbage, and guides the reader through the Great Depression to marvel at the giant computing room of the Works Progress Administration. When Computers Were Human is the sad but lyrical story of workers who gladly did the hard labor of research calculation in the hope that they might be part of the scientific community. In the end, they were rewarded by a new electronic machine that took the place and the name of those who were, once, the computers.
@@ -721,16 +458,6 @@ David Alan Grier is Associate Professor in the Center for International Science 
 
 
 
-
-"David Alan Grier's recovery of the wonderfully rich story of human computers . . .  ask[s] why human computers were made to disappear in the first place. . . . It is notoriously difficult to recover details of the lives of ordinary people. . . . But Grier triumphantly achieves his aim when discussing the twentieth-century human computer, as many are alive to tell their tales."—Jon Agar, Nature
-"Prior to the advent of programmable data-processing electronic devices in the mid-20th century, the word computer was commonly used to describe a person hired to crank out stupefyingly tedious calculations. . . . Human computers have . . .  been largely forgotten, and David Alan Grier . . .  is intent on restoring them to their rightful place in history."—Ann Finkbeiner, Discover
-"When Computers Were Human is a detailed and fascinating look at a world I had not even known existed."—James Fallows, National Correspondent, Atlantic Monthly
-"The strength of this book is its breadth of research and its human touch. . . .  [A] well written, informative and enjoyable work."—Amy Shell-Gellasch, MAA Reviews
-"Overall, this book provides a wonderful survey of human computing from 1682 onward. . . . I recommend this book to all historians of computing, both professional and amateur."—Jonathan P. Bowen, IEEE Annals of the History of Computing
-"When Computers Were Human is a detailed and fascinating look at a world I had not even known existed. After reading these accounts of ingenuity, determination, and true creative breakthrough, readers will look at today's computer-based society in an entirely different way."—James Fallows, National Correspondent, Atlantic Monthly
-"How did the lives of people and the lives of numbers become so intimately entwined? David Alan Grier's authoritative, engaging, and richly detailed account of this neglected chapter in the history (and prehistory) of computing abounds with remarkable characters, sheds long-awaited light on their achievements, and could not have been better told."—George Dyson, author of Darwin among the Machines
-"The story of computation before the invention of the computer is an important one—one that has not been told in this way before. This narrative grabs you right from the first page. Grier tells the human story behind some of the greatest scientific accomplishments, and tells it in a very readable way."—Michael R. Williams, Head Curator, Computer History Museum
-"The history of the electronic computer has become the topic of a fair amount of scholarly work, and yet the wonderful story of the (collective) human computer has barely been noticed. This book will appeal both to an appreciable range of scholars and to more general readers. The style is pleasant and informal; the mathematics, accessible and interesting."—Theodore M. Porter, author of Trust in Numbers: The Pursuit of Objectivity in Science and Public Life
 
 
 "David Alan Grier's recovery of the wonderfully rich story of human computers . . .  ask[s] why human computers were made to disappear in the first place. . . . It is notoriously difficult to recover details of the lives of ordinary people. . . . But Grier triumphantly achieves his aim when discussing the twentieth-century human computer, as many are alive to tell their tales."—Jon Agar, Nature
@@ -760,38 +487,6 @@ Honorable Mention for the 2013 PROSE Award in Popular Science & Mathematics, Ass
 Lance Fortnow is professor and chair of the School of Computer Science at Georgia Institute of Technology and the founder and coauthor of the Computational Complexity blog.
 
 
-
-
-
-
-
-
-
-
-
-"As Fortnow describes. . . P versus NP is ‘one of the great open problems in all of mathematics' not only because it is extremely difficult to solve but because it has such obvious practical applications. It is the dream of total ease, of the confidence that there is an efficient way to calculate nearly everything, ‘from cures to deadly diseases to the nature of the universe,' even ‘an algorithmic process to recognize greatness.'. . . To postulate that P ≠ NP, as Fortnow does, is to allow for a world of mystery, difficulty, and frustration—but also of discovery and inquiry, of pleasures pleasingly delayed."—Alexander Nazaryan, New Yorker
-"Fortnow effectively initiates readers into the seductive mystery and importance of P and NP problems."—Publishers Weekly
-"Fortnow's book is just the ticket for bringing one of the major theoretical problems of our time to the level of the average citizen—and yes, that includes elected officials."—Veit Elser, Science
-"Without bringing formulas or computer code into the narrative, Fortnow sketches the history of this class of questions, convincingly demonstrates their surprising equivalence, and reveals some of the most far-reaching implications that a proof of P = NP would bring about. These might include tremendous advances in biotechnology (for instance, more cures for cancer), information technology, and even the arts. Verdict: Through story and analogy, this relatively slim volume manages to provide a thorough, accessible explanation of a deep mathematical question and its myriad consequences. An engaging, informative read for a broad audience."—J.J.S. Boyce, Library Journal
-"A provocative reminder of the real-world consequences of a theoretical enigma."—Booklist
-"The definition of this problem is tricky and technical, but in The Golden Ticket, Lance Fortnow cleverly sidesteps the issue with a boiled-down version. P is the collection of problems we can solve quickly, NP is the collection of problems we would like to solve. If P = NP, computers can answer all the questions we pose and our world is changed forever. It is an oversimplification, but Fortnow, a computer scientist at Georgia Institute of Technology, Atlanta, knows his stuff and aptly illustrates why NP problems are so important."—Jacob Aron, New Scientist
-"Fortnow's book does a fine job of showing why the tantalizing question is an important one, with implications far beyond just computer science."—Rob Hardy, Commercial Dispatch
-"A great book. . . . [Lance Fortnow] has written precisely the book about P vs. NP that the interested layperson or IT professional wants and needs."—Scott Aaronson, Shtetl-Optimized blog
-"[The Golden Ticket] is a book on a technical subject aimed at a general audience. . . . Lance's mix of technical accuracy with evocative story telling works."—Michael Trick, Michael Trick's Operations Research Blog
-"Thoroughly researched and reviewed. Anyone from a smart high school student to a computer scientist is sure to get a lot of this book. The presentation is beautiful. There are few formulas but lots of facts."—Daniel Lemire's Blog
-"An entertaining discussion of the P versus NP problem."—Andrew Binstock, Dr. Dobb's
-"The Golden Ticketis an extremely accessible and enjoyable treatment of the most important question of theoretical computer science, namely whether P is equal to NP."—Choice
-"The book is accessible and useful for practically anyone from smart high school students to specialists. . . . [P]erhaps the interest sparked by this book will be the 'Golden Ticket' for further accessible work in this area. And perhaps P=NP will start to become as famous as E=mc2."—Michael Trick, INFORMS Journal of Computing
-"In any case, it is excellent to have a nontechnical book about the P versus NP question. The Golden Ticket offers an inspiring introduction for nontechnical readers to what is surely the most important open problem in computer science."—Leslie Ann Goldberg, LMS Newsletter
-"The Golden Ticket does a good job of explaining a complex concept in terms that a secondary-school student will understand—a hard problem in its own right, even if not quite NP."—Physics World
-"[The Golden Ticket] is fun to read and can be fully appreciated without any knowledge in (theoretical) computer science. Fortnow's efforts to make the difficult material accessible to non-experts should be commended."—Andreas Maletti, Zentralblatt MATH
-"This is a fabulous book for both educators and students at the secondary school level and above. It does not require any particular mathematical knowledge but, rather, the ability to think. Enjoy the world of abstract ideas as you experience an intriguing journey through mathematical thinking."—Gail Kaplan, Mathematics Teacher
-"Fortnow's book provides much of the background and personal information on the main characters involved in this problem—notably Steven Cook, with a cameo appearance by Kurt Gödel—that one does not get in the more technical treatments. There is a lot of information in this book, and the serious computer science student is sure to learn from it."—James M. Cargal, UMAP Journal
-"You will love this book. It's completely accessible and captures the thrill, potential, and heartbreak of an edgy mathematical problem in terms that nonmathematicians will appreciate. After readingThe Golden Ticket, I sort of hope P isn't NP after all."—Vint Cerf, Internet Pioneer
-"The P-NP problem is fundamental to computer science, and indeed all of mathematics. This book presents an engaging exposition of the problem, its history, and importance. In the process, it touches on major topics appearing in university computer science courses, all presented in an amusing style requiring no background in mathematics beyond the ability to solve Sudoku puzzles. I highly recommend it."—Stephen Cook, formulator of the P-NP problem
-"This book, written by a world-class master of the field, is a grand tour of the most celebrated and profound unsolved problem in computer science. Fortnow's many ingenious explanations make the mysteries of computational complexity accessible to anyone interested in the fundamental questions: what can be computed and how fast can we compute it?"—John MacCormick, author of Nine Algorithms That Changed the Future
-"This book is meticulous. Fortnow has really tracked down the history and background of this important and timely subject. Even complexity theorists will benefit from his fine scholarship. The Golden Ticket is the first of its kind—a book for general readers about complexity theory."—William Gasarch, University of Maryland
-"Nobody explains the importance of the P-NP problem better than Fortnow."—William J. Cook, author of In Pursuit of the Traveling Salesman: Mathematics at the Limits of Computation
 
 
 "As Fortnow describes. . . P versus NP is ‘one of the great open problems in all of mathematics' not only because it is extremely difficult to solve but because it has such obvious practical applications. It is the dream of total ease, of the confidence that there is an efficient way to calculate nearly everything, ‘from cures to deadly diseases to the nature of the universe,' even ‘an algorithmic process to recognize greatness.'. . . To postulate that P ≠ NP, as Fortnow does, is to allow for a world of mystery, difficulty, and frustration—but also of discovery and inquiry, of pleasures pleasingly delayed."—Alexander Nazaryan, New Yorker
@@ -836,22 +531,6 @@ E. Gabriella Coleman is the Wolfe Chair in Scientific and Technological Literacy
 
 
 
-
-"Coding Freedom is insightful and fascinating, a superbly observed picture of the motives, divisions and history of the free software and software freedom world."—Cory Doctorow, BoingBoing
-"Anyone who thinks about programmers, open source, online communities, or the politics of intellectual property should have a copy of Coding Freedom on the shelf. It is an invaluable portrait of how free-software coders work, individually and collectively."—James Grimmelmann, Jotwell
-"The hacker ethic may be peculiar to outsiders. But it stems from a deep commitment to justice, fairness, and freedom. Anthropologist Gabriella Coleman describes in her phenomenal book Coding Freedom how hacker ethic gets encoded into both technical and political practice."—Danah Boyd, Wired
-"Though occasionally she uses academic jargon, her book is an intriguing read and connects the dots. . . . Reading this book will help you to understand the conflict, as well as hacker culture."—David Hutchinson, io9.com
-"[S]triking and important. . . . Coleman has captured a great deal of the essential spirit of the free- and open-software movement. . . . I strongly suggest that you buy a copy of the book."—John Gilbey, Times Higher Education
-"[I]t is well-written and the analyses really get to the heart of some deeply ethical questions about individual, group and political relationships in voluntary groups which are rarely considered in such detail."—John R. Hudson, Briefing Bradford
-"This work by Coleman is at once history, ethnography, cultural criticism, and storytelling. . . . Once can read the book as a narrative of the free software and open source movements, or as a sympathetic description of the behavior norms of hackers. . . . Some readers will likely not consider hackers' aesthetic appreciation of good or clever coding as beauty, nor hackers' humor as funny, but these are Coleman's courageous attempts to provide a rounded depiction of this subculture. This book seems likely to be one of the defining works of cultural anthropology."—Choice
-"Coding Freedom is a persuasive piece of writing that tackles some of the questions central to the current political climate."—Sebastian Kubitschko, Culture Machine
-"Coding Freedom is an important analysis of F/OSS that offers deep ethnographic detail and creates a complex appreciation of this phenomenon. Coleman is also able to take this rich detail and extend it into the ethics and politics of F/OSS, connecting internal community principles to wider political effects, of which she provides a unique analysis. This book is compulsory reading for anyone interested in the cultural and social meaning of F/OSS and will powerfully repay anyone interested in the nature of ethics and society in the 21st century."—Tim Jordan, American Journal of Sociology
-"Coleman knows, understands, and lives free culture. No one is more credible or more fascinating when describing the lives of the women and men whose mission is an open, free information age."—Cory Doctorow, author of Little Brother and coauthor of The Rapture of the Nerds
-"Coleman's book is definitive—everything in it is lovingly detailed, exhaustively researched, fluently written, and packed with provocative insights. A monument of scholarship, it combines the best of anthropology with an unconventional and fresh approach to law, political theory, and ethics. From the conference-going world of software programmers to the humor and pleasures of code-fu, and from the phantasms of free speech to the passion and pathos of technical committees, Coleman is an extraordinary guide to the world of contemporary hacking."—Christopher Kelty, University of California, Los Angeles
-"Coleman's book on free and open source software programmers and hackers is desperately needed and will be a significant, landmark contribution to our understanding of the current technologically mediated moment. Coleman mixes case studies with learned treatments of this community, changes in the legal environment, and other relevant dimensions."—Thomas M. Malaby, University of Wisconsin-Milwaukee
-"This is a revelatory ethnographic look at the origins and evolution of the free and open source software subculture. Coleman provides entirely new insights into the humor, aesthetics, and social life of hackers, while exploring the philosophical implications of open source for ideas about personal freedom, labor, and markets. Coding Freedom is an essential study of the technological revolution of our times."—Joseph Masco, University of Chicago
-
-
 "Coding Freedom is insightful and fascinating, a superbly observed picture of the motives, divisions and history of the free software and software freedom world."—Cory Doctorow, BoingBoing
 "Anyone who thinks about programmers, open source, online communities, or the politics of intellectual property should have a copy of Coding Freedom on the shelf. It is an invaluable portrait of how free-software coders work, individually and collectively."—James Grimmelmann, Jotwell
 "The hacker ethic may be peculiar to outsiders. But it stems from a deep commitment to justice, fairness, and freedom. Anthropologist Gabriella Coleman describes in her phenomenal book Coding Freedom how hacker ethic gets encoded into both technical and political practice."—Danah Boyd, Wired
@@ -886,11 +565,6 @@ Gene I. Rochlin is Professor of Energy and Resources at the University of Califo
 
 
 
-"In Trapped in the Net, an insightful and painstakingly documented book, [Rochlin] explores the changes already wrought by computers and networking in areas as diverse as financial markets, air travel, nuclear power plants, corporate management and the military."—Lawrence Hunter, The New York Times Book Review
-"Trapped in the Net covers not only the military, but also financial markets, aviation and business. In all cases, humans working inside organizations become helpless just when the systems they use encounter the unexpected and start behaving idiotically. This is a fascinating and well-argued book. . . . The references are good, and certainly prove that Rochlin is not a lone voice with a cynical message."—Harold Thimbleby, New Scientist
-"[Rochlin's] straightforward argument should be apparent to those managing and promoting increasing computerization: that greater dependence on computers implies greater disaster when they fail. . . . Rochlin ends with an exploration of the new cyberized military and continues to pinpoint the unintended consequences that computer enthusiasts rarely think about, but should."—Booklist
-".[C]omputerization is leading us into pretty dire straits. In financial markets, warp-speed automated trading creates opportunities for fraud and moves us further away from a stable investment climate. In the office, computers promise efficiency, but bring fragmented knowledge and reduced autonomy to workers. There's worse news. Pilots in the 'glass cockpits' of modern airplanes have too much data to interpret, and nuclear power plant operators are less likely to have an intuitive feel for things going wrong 'on the floor'. Most sobering of all is the discussion of automation and the military."—Publishers Weekly
-
 
 "In Trapped in the Net, an insightful and painstakingly documented book, [Rochlin] explores the changes already wrought by computers and networking in areas as diverse as financial markets, air travel, nuclear power plants, corporate management and the military."—Lawrence Hunter, The New York Times Book Review
 "Trapped in the Net covers not only the military, but also financial markets, aviation and business. In all cases, humans working inside organizations become helpless just when the systems they use encounter the unexpected and start behaving idiotically. This is a fascinating and well-argued book. . . . The references are good, and certainly prove that Rochlin is not a lone voice with a cynical message."—Harold Thimbleby, New Scientist
@@ -923,79 +597,6 @@ One of the Financial Times' Best Books of 2018: Science
 
 
 Martin Rees is Astronomer Royal, and has been Master of Trinity College and Director of the Institute of Astronomy at Cambridge University. As a member of the UK’s House of Lords and former President of the Royal Society, he is much involved in international science and issues of technological risk. His books include Our Cosmic Habitat (Princeton), Just Six Numbers, and Our Final Hour (published in the UK as Our Final Century). He lives in Cambridge, UK. Twitter @lordmartinrees
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-"This little gem is divided into four beautifully-crafted chapters providing broad perspective, personal anecdotes, some seldom-mined historical background, strong scientific emphasis, and hope."—Bruce L. Dietrich, Planetarian
-"On the Future, by a leading senior scientist and written in a charming and crystalline style, provides the kind of wisdom humanity most needs to make our way on through the twenty-first century."—Edward O. Wilson, professor emeritus, Harvard University 
-“Curious about the future? Here, one of the world’s most eminent scientists takes you through what will happen and why. On the Future is excellent!”—Eric Schmidt, former executive chairman of Google
-“From climate change to biotech to artificial intelligence, science sits at the center of nearly all decisions that civilization confronts to assure its own survival. Martin Rees has created a primer on these issues, and what we can do about them, so that the next generation will think of us not as reckless custodians of their inheritance, but as brilliant shepherds of their birthright.”—Neil deGrasse Tyson, coauthor of Welcome to the Universe
-"Martin Rees offers a compelling vision of our future—on Earth and in space."—Elon Musk, founder, CEO, and CTO of SpaceX and cofounder and CEO of Tesla Motors
-“Prophecy may be a lost art, but I can think of no better way to envision what lies ahead than this book—a multidimensional meditation by one of our most distinguished and wise scientific minds on where we are headed and what we can do to right the ship of our civilization. In a time when it is hard to find a dream of the future that is not dystopian, Martin Rees sees and writes with rigor, clarity, and hope.”—Ann Druyan, writer, producer, and director of Cosmos 
-"In clear and simple prose, Martin Rees lays bare the catastrophic dangers now facing humanity: nuclear, biotech, cyber, and climate. Modern science, he says, created these dangers but still provides the only path forward. A real wake-up call."—Jerry Brown, governor of California
-“On the Future is a very important book that should be widely read and acted upon. Martin Rees combines his deep scientific insights and compassion for humanity’s welfare to address, in clear and elegant prose, the major issues facing human civilization today, some of which are not now commonly considered. Whether or not you agree with all the points he makes, you must take them very seriously indeed.”—Roger Penrose, author of Fashion, Faith, and Fantasy in the New Physics of the Universe
-"An engaging analysis of the most important issues facing the world, sprinkled with insight and suffused with wisdom and humanity."—Steven Pinker, author of Enlightenment Now
-“Are we heading for a utopian or dystopian future? Martin Rees believes it’s down to us. But the one thing we must not do is put the brakes on technology. Science, applied wisely, offers humanity a bright future, but we must act now. In this visionary book, and despite his many fears, Rees adopts a refreshing and cautiously optimistic tone.”—Jim Al-Khalili, author of Paradox: The Nine Greatest Enigmas in Physics
-“A breathtaking journey through thrilling advances in science and technology that may address society’s most vexing challenges, On the Future is ideal reading for all citizens of the twenty-first century."—Marcia K. McNutt, president of the National Academy of Sciences
-"What if we got one of the smartest people alive to figure the odds on how we might be able to survive our ability to do ourselves in? We have that person in Martin Rees, and his thoughtful answers in this book."—Alan Alda
-“As Yogi Berra said, ‘It’s tough to make predictions, especially about the future.’ But in this readable and thought-provoking book, Martin Rees shows the challenges we and our planet face—and why scientists need to engage citizens in the choices that are made.”—Shirley M. Malcom, director of education and human resources programs at the American Association for the Advancement of Science
-“For anyone who wants to consider the choices we have in our future and the implications of those choices, this is the book to read. Rees is a clear thinker and graceful writer, and he expresses an encouraging optimism about the future, if we can avoid some of our current species-limiting behaviors. Rees’s projections are grounded in today’s scientific knowledge and a scientist’s sense of probability and presented with a deep sense of humility.”—Rush D. Holt, CEO of the American Association for the Advancement of Science and former U.S. Representative from New Jersey
-“On the Future is a delightful intellectual treat and a must-read for everyone on Earth—and beyond, if aliens exist. With wisdom and originality, Martin Rees, our most accomplished living astronomer, addresses the most important of subjects—the future of humanity and the scientific advances and risks it brings. His deep personal insights are unique and exciting and his many anecdotes are enjoyable. I couldn’t put it down.”—Abraham Loeb, Harvard University 
-“In this outstanding book, the always brilliant Martin Rees addresses the key problems of our day, putting humanity’s perils and prospects in perspective—from climate change, to the future of artificial intelligence, to the threat of bioterrorism, to the chance for future space adventurers to spread out into the universe. Rees is one of the deepest and clearest thinkers on these subjects, and his book sparkles with gems of insight and humor.”—J. Richard Gott, coauthor of Welcome to the Universe
-“In this short and mighty book, Rees grapples with the exhilarating promise and frightening possibilities of today’s vast scientific advancements, situating himself somewhere between the techno-optimists and dystopian naysayers. On the Future provides tremendous insight into science’s great expanse and beseeches us all to get involved and advocate for long-term policies that will keep future generations safe. The future of humanity and the planet rests in our hands.”—Rachel Bronson, president and CEO of the Bulletin of the Atomic Scientists
-“On the Future will captivate readers. Martin Rees stands at the top of our informed thinkers about futurology.”—Pedro G. Ferreira, author of The Perfect Theory: A Century of Geniuses and the Battle over General Relativity
-"This inspiring and thought-provoking book by one of the world's leading scientists and visionaries is a must-read for anyone who cares about the future of humanity."—Max Tegmark, author of Life 3.0: Being Human in the Age of Artificial Intelligence
-“Our planet is in peril—and humanity needs huge doses of wisdom to save it. Fortunately, one man, Martin Rees, can provide it. This book is a must-read for all who care about our planet’s future.”—Kishore Mahbubani, author of Has the West Lost It?
-“Martin Rees’s book is a vital compass to help us navigate the future, an enthralling love letter to knowledge and rationality, and a call to arms for those of us who dare to hope for the best.”—David Puttnam, film producer and educator
-"Martin Rees's On the Future is a template of hope that offers practical scientific, social, and political solutions for avoiding man-made disasters that could devastate our species.”—Michael Wilson, film producer
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -1060,9 +661,6 @@ David G. Luenberger is Professor in the Department of Management Science and Eng
 
 
 
-"This is a fascinating and enjoyable book to read. It is clear throughout the book that David Luenberger is an experienced teacher who has put careful thought into his writing. He wrote and uses this book for a course in the Dept. of Engineering—Economic Systems and Operations Research at Stanford University. The students range from sophomores to graduate students, and the book is very readable for students at all of these levels."—Susan Kelly, The UMAP Journal
-"This original, integrative book is a tour de force, unique in content and presentation. The author has achieved the goal that all academics should strive for: the ability to develop and explain complex ideas in the simplest way without compromising theory or being simplistic."—Sharan Jagpal, Rutgers University
-
 
 "This is a fascinating and enjoyable book to read. It is clear throughout the book that David Luenberger is an experienced teacher who has put careful thought into his writing. He wrote and uses this book for a course in the Dept. of Engineering—Economic Systems and Operations Research at Stanford University. The students range from sophomores to graduate students, and the book is very readable for students at all of these levels."—Susan Kelly, The UMAP Journal
 "This original, integrative book is a tour de force, unique in content and presentation. The author has achieved the goal that all academics should strive for: the ability to develop and explain complex ideas in the simplest way without compromising theory or being simplistic."—Sharan Jagpal, Rutgers University
@@ -1086,13 +684,6 @@ Rubin H. Landau is Distinguished Professor of Physics and Director of the Comput
 
 
 
-
-"Essential. . . . Rubin Landau offers a practical introduction to the world of scientific computing or numerical analysis. He introduces not only the concepts of numerical analysis, but also more importantly the tools that can be used to perform scientific computing. . . . The presentation is particularly useful because real-life examples with real code and results are included."—Choice
-"Not only is [this book] an invaluable learning text and an essential reference for students of mathematics, engineering, physics, and other sciences, but it is also a consummate model for future textbooks in computational science and engineering courses."—Mathematical Reviews
-"The contents can be taught in lab-based courses at the undergraduate level. Much of the material covered is usually addressed in separate books. Therefore, the book is also suitable for independent study by graduate students and professional who wish to learn one or more of the languages in a comprehensive way with the emphasis kept on problem-solving."—Frits Agterberg, Computers and Geosciences
-"The colloquial and tutorial approach might help alleviate the many practical problems associated with incorporating computational applications into a more traditional lecture environment. The text provides many concrete and programming examples in action and illustrates how much you can accomplish with a few well-chosen tools. . . . [S]tudents impressed with the text's workbook style and reference book quality will add it to their bookshelves and return to it often."—Michael Jay Schillaci, IEEE Computing in Science and Engineering
-"This book fills an important niche for the undergraduate by providing a well-organized, well-written introduction to a subject usually addressed in books for graduate students. Its problem-based approach to programming in Maple and Java, using common physics problems in a multitude of areas such as mechanisms, electromagnetism, and relativity, is very effective method of instruction."—Gregory Moses, University of Wisconsin-Madison
-"This easy-to-follow book is novel in being a hands-on workbook rather than a standard textbook. Importantly, it integrates scientific examples with a discussion of programming techniques and algorithm design. By having the student read it while sitting down at the computer, it offers immediate feedback. It is also unusual in using and comparing two very different approaches, Maple and Java."—Jan Tobochnik, Kalamazoo College, coauthor of An Introduction to Computer Simulation Methods and Editor of the American Journal of Physics
 
 
 "Essential. . . . Rubin Landau offers a practical introduction to the world of scientific computing or numerical analysis. He introduces not only the concepts of numerical analysis, but also more importantly the tools that can be used to perform scientific computing. . . . The presentation is particularly useful because real-life examples with real code and results are included."—Choice
@@ -1121,10 +712,6 @@ Rubin H. Landau is professor of physics and director of the computational physic
 
 
 
-"Landau and Piez, authors of Computational Physics, have teamed up with Bordeianu to create an expanded work on introductory computational physics. Even more comprehensive than the first book, this volume contains up-to-date treatments of many new topics at the forefront of the field. . . . This volume offers everything needed for a graduate or undergraduate computational physics course."—K.D. Fisher, Choice
-"In addition to being an excellent undergraduate textbook, A Survey of Computational Physics will be useful to scientists wanting a good reference on basic computational modeling methods."—John W. Mintmire, Oklahoma State University
-"This book is a welcome addition to the existing literature on the subject. It is needed as much for its pedagogical approach to computational thinking as for its choice of topics in computational physics. Its use of Java as the main programming language brings it up to date with the skills that the new generation of students will bring to class."—Ali Eskandarian, George Washington University
-
 
 "Landau and Piez, authors of Computational Physics, have teamed up with Bordeianu to create an expanded work on introductory computational physics. Even more comprehensive than the first book, this volume contains up-to-date treatments of many new topics at the forefront of the field. . . . This volume offers everything needed for a graduate or undergraduate computational physics course."—K.D. Fisher, Choice
 "In addition to being an excellent undergraduate textbook, A Survey of Computational Physics will be useful to scientists wanting a good reference on basic computational modeling methods."—John W. Mintmire, Oklahoma State University
@@ -1149,10 +736,6 @@ David A. Kendrick is the Yarborough Centennial Professor of Liberal Arts at the 
 "Computational Economics is a pioneering textbook by the world leaders in the field."—Alan S. Manne, Stanford University
 
 
-"Important and useful. . . . [T]his book represents an excellent way to learn computational economics, doing it."—Pietro Terna, Journal of Artificial Societies and Social Simulation
-"The book succeeds perfectly at enhancing the creativity and productivity of students in economics and related fields by clearly circumventing the traditional approach. The problems presented will attract the students' attention and provide motivation for further work."—Manfred Gilli, University of Geneva, Switzerland
-"Computational Economics is a pioneering textbook by the world leaders in the field."—Alan S. Manne, Stanford University
-
       			Dynamic Models in Biology		
 
 From controlling disease outbreaks to predicting heart attacks, dynamic models are increasingly crucial for understanding biological processes. Many universities are starting undergraduate programs in computational biology to introduce students to this rapidly growing field. In Dynamic Models in Biology, the first text on dynamic models specifically written for undergraduate students in the biological sciences, ecologist Stephen Ellner and mathematician John Guckenheimer teach students how to understand, build, and use dynamic models in biology.
@@ -1174,39 +757,6 @@ Stephen P. Ellner is Professor of Ecology and Evolutionary Biology at Cornell Un
 
 
 
-"What is remarkable about Dynamic Models in Biology is that it truly speaks to students of biological sciences. It puts biology first, and then tries to explain how mathematical tools can explain biological phenomena. Nothing else I've seen does this anywhere near as well. The authors have combined their experience to produce and excellent textbook."—Bill Satzer, MAA Reviews
-"This is a great book and I expect that it will play an important role in the teaching of mathematical biology and the development of the next generation of mathematical biologists for many years to come."—Marc Mangel, SIAM Review
-"Dynamic Models in Biology stands apart from existing textbooks in mathematical biology largely because of its interdisciplinary approach and its hands-on, project-oriented case studies and computer laboratories. In an effort to explore biology in more detail, the authors bravely chose a style that differs from the classical biomath texts . . . whose focus is more on formal mathematics."—Lewi Stone, BioScience
-"The book begins with a stellar overview of the purpose of modeling, contrasting statistical with dynamical models, and theoretical with practical models both clearly and even-handedly...[E]ngaging the full breadth and depth of this book could be an education for both instructors and students alike."—Frederick R. Adler, Mathematical Biosciences
-"[S]tudents from both biology and mathematics can gain much from this book. Dynamic Models in Biology would be appropriate for use in a semester or two-quarter course; however, with judicious selection of topics, it can be used in a quarter. My students included undergraduates in biology with knowledge only of calculus, undergraduates in mathematics, and graduate students and academic staff in biology, all enrolled on a ten-week course. . . . Overall, Dynamic Models in Biology fills an important niche in the biological modeling canon. It occupies a place on my shelf next to Edelstein-Keshet (1988) and Murray (1989), and like them, will become a well-thumbed reference."—Carole L. Hom, Environmental Conservation
-"This book is written with the reality of biology students and their apprehension about mathematics in mind. The applications of mathematical models to real biological problems are not contrived, as they are in a number of other texts. And the biology examples are taken from the current literature—a wonderful help to those who will be teaching with this book."—Jim Keener, University of Utah, author of Principles of Applied Mathematics and Mathematical Physiology
-
-"Dynamic Models in Biology is a new and significant contribution to the field. Very well written and clearly presented, it fulfills its goal of bringing dynamic models into the undergraduate biology curriculum. Indeed it puts biology first, and then seeks to show how biological phenomena can be explained in mathematical terms."—Martin Henry H. Stevens, Miami University
-
-"This excellent book is a major contribution to the literature. Strong biologically and mathematically, well-organized, and engagingly written, it introduces the subject of dynamical models in biology in as coherent a way as I have seen anywhere. Few authors could approach this topic as authoritatively as do Ellner and Guckenheimer."—Simon Levin, Princeton University, author of The Importance of Species and The Encyclopedia of Biodiversity
-
-
-
-
-
-
-          Resources
-      
-
-
-Preface
-
-
-Chapter 1
-
-
-Chapter 7
-
-
-Chapter 9
-
-
-
 
 "What is remarkable about Dynamic Models in Biology is that it truly speaks to students of biological sciences. It puts biology first, and then tries to explain how mathematical tools can explain biological phenomena. Nothing else I've seen does this anywhere near as well. The authors have combined their experience to produce and excellent textbook."—Bill Satzer, MAA Reviews
 "This is a great book and I expect that it will play an important role in the teaching of mathematical biology and the development of the next generation of mathematical biologists for many years to come."—Marc Mangel, SIAM Review
@@ -1219,34 +769,6 @@ Chapter 9
 
 "This excellent book is a major contribution to the literature. Strong biologically and mathematically, well-organized, and engagingly written, it introduces the subject of dynamical models in biology in as coherent a way as I have seen anywhere. Few authors could approach this topic as authoritatively as do Ellner and Guckenheimer."—Simon Levin, Princeton University, author of The Importance of Species and The Encyclopedia of Biodiversity
 
-
-      			Digital Government: Technology and Public Sector Performance 
-
-Few developments have had broader consequences for the public sector than the introduction of the Internet and digital technology. In this book, Darrell West discusses how new technology is altering governmental performance, the political process, and democracy itself by improving government responsiveness and increasing information available to citizens. Using multiple methods — case studies, content analysis of over 17,000 government Web sites, public and bureaucrat opinion survey data, an e-mail responsiveness test, budget data, and aggregate analysis — the author presents the most comprehensive study of electronic government ever undertaken. Among other topics, he looks at how much change has taken place in the public sector, what determines the speed and breadth of e-government adoption, and what the consequences of digital technology are for the public sector. Written in a clear and analytical manner, this book outlines the variety of factors that have restricted the ability of policy makers to make effective use of new technology. Although digital government offers the potential for revolutionary change, social, political, and economic forces constrain the scope of transformation and prevent government officials from realizing the full benefits of interactive technology.
-
-Awards and Recognition
-
-Winner of the 2006 Don K. Price Award, Science, Technology, and Environmental Politics Section of the American Political Science Association
-
-
-
-
-
-Darrell M. West is the John Hazen White Professor of Political Science and Public Policy and Director of the Taubman Center for Public Policy at Brown University. He is the author of thirteen books, including Crosstalk: Citizens, Candidates, and the Media in a Presidential Campaign; Patrick Kennedy: The Rise to Power; Air Wars: Television Advertising in Election Campaigns, 1952-2000; and The Rise and Fall of the Media Establishment. His Web site, InsidePolitics.org, features in-depth research on electronic government at the city, state, national, and international levels.
-
-
-
-
-
-
-"A comprehensive, detailed, survey of e-government practices, this book is a significant contribution to the field."—Stuart Bretschneider, Syracuse University
-"This well-written book nicely blends the diffusion theory of technical innovations with the comprehensive nature of the evolution of e-government."—M. Jae Moon, Korea University and Texas A&M University
-"I've seen no other work that brings together this much empirical evidence on the general trend of government agencies' adoption of IT for their services."—Eszter Hargittai, Northwestern University.
-
-
-"A comprehensive, detailed, survey of e-government practices, this book is a significant contribution to the field."—Stuart Bretschneider, Syracuse University
-"This well-written book nicely blends the diffusion theory of technical innovations with the comprehensive nature of the evolution of e-government."—M. Jae Moon, Korea University and Texas A&M University
-"I've seen no other work that brings together this much empirical evidence on the general trend of government agencies' adoption of IT for their services."—Eszter Hargittai, Northwestern University.
 
       			Delete: The Virtue of Forgetting in the Digital Age The hazards of perfect memory in the digital age
 
@@ -1294,30 +816,6 @@ Viktor Mayer-Schönberger is professor of internet governance and regulation at 
 "Delete is a refreshingly philosophical take on the new dilemmas created by extensive digital documentation of our daily lives. Mayer-Schönberger's background in business and technology leads him to a creative and novel response to the challenges generated by persistent storage of data. Delete is a valuable contribution."—Frank Pasquale, Seton Hall Law School
 
 
-"Mayer-Schonberger deserves to be applauded and Delete deserves to be read for making us aware of the timelessness of what we created and for getting us to consider what endless accumulation might portend."—Paul Duguid, Times Literary Supplement
-"In Delete, Viktor Mayer-Schönberger argues that we should be less troubled by the fleetingness of our digital records than by the way they can linger."—Adam Keiper, Wall Street Journal
-"Mayer-Schönberger raises questions about the power of technology and how it affects our interpretation of time. . . . He draws on a rich body of contemporary psychological theory to argue that both individuals and societies are obliged to rewrite or eliminate elements of the past that would render action in the present impossible."—Fred Turner, Nature
-"There is no better source for fostering an informed debate on this issue."—Science
-"A fascinating book."—Clive Thompson, WIRED Magazine
-"As its title suggests, Delete is about forgetting, more specifically about the demise of forgetting and the resulting perils. . . . [Mayer-Schonberger] comes up with an interesting solution: expiration dates in electronic files. This would stop the files from existing forever and flooding us and the next generations with gigantic piles of mostly useless or even potentially harmful details. This proposal should not be forgotten as we navigate between the urge to record and immortalise our lives and the need to stay productive and sane."—Yadin Dudai, New Scientist
-"Delete is a useful recap of the various methods that are—or could be—applied to dealing with the consequences of information abundance. It also adds a thought-provoking new twist to the literature."—Richard Waters, Financial Times
-"Unlike so many books about the internet, which like to hit the panic button then run, Mayer-Schönberger stays around to offer a solution. . . . Mayer-Schönberger deserves to be applauded and Delete deserves to be read for making us aware of the timelessness of what we create and for getting us to consider what endless accumulation might portend."—Paul Duguid, Times Higher Education
-"This book . . . is laid out like an invitation to such a sparring session. There you find the detailed arguments, spread out one by one. Get ready to highlight where you agree, note contradictions and arguments not carried through to their consequential end, and make annotations where you feel a new punch. The session will be worth the effort."—Herbert Burkert, Cyberlaw
-"A lively, accessible argument . . . that all that stored and shared data is a serious threat to life as we know it."—Jim Willse, Newark Star Ledger
-"A fascinating work of social and technological criticism. . . . The book explores the ways various technologies has altered the human relationship with memory, shifting us from a society where the default was to forget (and consequently forgive) to one where it is impossible to avoid the ramifications of a permanent record."—Philip Martin, Arkansas Democrat Gazette
-"Mayer-Schönberger convincingly claims that our new status quo, the impossibility of forgetting, is severely misaligned to how the human brain works, and to how individuals and societies function. . . . Can anything be done? Delete is an accessible, thoughtful and alarming attempt to start debate."—Karlin Lillington, Irish Times
-"To argue for more forgetting is counter-intuitive to those who value information, history and transparency, but the writer pursues it systematically and thoroughly."—Richard Thwaites, Canberra Times
-"Surprising and fascinating. . . . Delete opens a highly useful debate."—Robert Fulford, National Post
-"Delete offers many scary examples of how the control of personal information stored in e-memory can fall into the wrong hands. . . . Lucid, eminently readable."—Winifred Gallagher, Globe and Mail
-"Delete is one of a number of smart recent books that gently and eruditely warn us of the rising costs and risks of mindlessly diving into new digital environments—without, however, raising apocalyptic fears of the entire project. . . . [Mayer-Schonberger] is a digital enthusiast with a realistic sense of how we might go very wrong by embracing powerful tools before we understand them."—Siva Vaidhyanathan, Chronicle of Higher Education
-"In this brief book, Mayer-Schönberger focuses on a unique feature of the digital age: contemporaries have lost the capacity to forget. Many books on privacy frequently mention, but never address in detail, the implications of an almost perfect memory system that digital technology and global networks have brought about. . . . An interesting book, well within the reach of the intelligent reader."—Choice
-"Clearly the conversation has begun, and Delete is well placed to contribute."—Matthew L. Smith, Identity in the Information Society
-"If the gathering, storage, and processing of information puts us all in the center of a digital panopticon, the failure to forget creates a panopticon crossbred with a time-travel machine. Mayer-Schönberger catalogs the range of social concerns that are arising as technology favors remembering over forgetting, and offers some approaches that might give forgetting a respected place in the digital world. Read this book. Don't forget about forgetting."—David Clark, Massachusetts Institute of Technology
-"Delete is, ironically, a book you will not forget. It provides a sweeping but well-balanced account of the challenges we face in a world where our digital traces are saved for life. These issues transcend just issues of privacy but go to the heart of how our society and we as individuals function, remember, and learn. I highly recommend this most informative and delightful book."—John Seely Brown, University of Southern California, coauthor of The Social Life of Information
-"An erudite and wide-reaching account of the role that forgetting has played in history—and how forgetting became an exception due to digital technology and global networks. Mayer-Schönberger vividly depicts the legal, social, and cultural implications of a world that no longer remembers how to forget. Delete deserves the broadest possible readership."—Paul M. Schwartz, Berkeley School of Law
-"In a work of extraordinary breadth and erudition, Viktor Mayer-Schönberger broadens the 'privacy' debate to encompass the dimension of time. His concept of 'digital forgetting' reshapes how sociologists, technologists, and policymakers must define and protect individual autonomy as technology usurps the prerogatives of human memory."—Philip Evans, Boston Consulting Group
-"Human society has taken for granted the fact of forgetting. Technology has made us less able to forget, and this change, as Mayer-Schönberger nicely demonstrates, will have a profound effect on society. We as a culture must think carefully and strategically about this incredibly significant problem. Delete will spark a debate we need to have."—Lawrence Lessig, author of Remix: Making Art and Commerce Thrive in the Hybrid Economy
-"Delete is a refreshingly philosophical take on the new dilemmas created by extensive digital documentation of our daily lives. Mayer-Schönberger's background in business and technology leads him to a creative and novel response to the challenges generated by persistent storage of data. Delete is a valuable contribution."—Frank Pasquale, Seton Hall Law School
 
       			Validated Numerics: A Short Introduction to Rigorous Computations 
 
@@ -1332,13 +830,6 @@ Warwick Tucker is professor of mathematics and principal investigator for the Co
 
 
 
-
-"Beyond obvious practical value, this material offers students an excellent opportunity to revisit and rethink some crucial, fundamental college mathematics."—Choice
-"[T]his little book is a very important supplement to existing books on validated numerics. It is a must for researchers working in this field."—G. Alefeld, Mathematical Reviews
-"The book contains a lot of exercises, various small programs written in MATLAB code, and four sections with numerous problems provided for experimenting on a computer. It is written at an elementary level corresponding to its aims. But it is also a pleasure for specialists to leaf through the book."—Gunter Mayer, Zentralblatt MATH
-"This book is an essential resource for those entering this fast-developing field, and it is also the ideal textbook for graduate students and advanced undergraduates needing an accessible introduction to the subject."—World Book Industry
-"Validated Numerics contains introductory material on interval arithmetic and rigorous computations that is easily accessible to students with little background in mathematics and computer programming. I am not aware of any other book like it. The exercises and computer labs make it ideal for the classroom, and the references offer a good starting point for readers trying to gain deeper knowledge in this area."—Zbigniew Galias, AGH University of Science and Technology, Kraków
-"A significant contribution, particularly since there are not many texts in this area. Validated Numerics will be read by those interested in interval arithmetic, numerical analysis, and ways to make computer simulations more robust and less susceptible to errors. It is well written and well organized."—A. J. Meir, Auburn University
 
 
 "Beyond obvious practical value, this material offers students an excellent opportunity to revisit and rethink some crucial, fundamental college mathematics."—Choice
@@ -1365,17 +856,6 @@ T. L. Taylor is professor of comparative media studies at the Massachusetts Inst
 
 
 
-
-
-"[Taylor’s] work expertly builds a historical framework for Twitch and outlines how patterns of behavior have evolved on the platform without overcommitting to any last-word assessments of its influence [and] also demonstrates how invigorating academic scholarship can be when it tries to tackle a subject still in formation."—Jacob Merten, The Velvet Light Trap
-"well worth reading. . .  [A] timely, wide-ranging introduction to, immersion in, and analysis of, Twitch and game live streaming."—Helle Breth Klausen, MedieKultur
-"Watch Me Play is an accessible text that both legitimizes academic inquiry into live streaming and provides a concrete base from which to build. Taylor uses comprehensible language to explain nuanced practices from
-gaming, legal, academic, and financial contexts, making this book useful for academics and students, as well as consumers, producers, streamers, and designers."—Janelle Malagon, Popular Culture Studies
-“Interest in online streaming platforms, especially for games and Twitch, is at its height. This timely and urgently needed book successfully conveys the technical, legal, emotional, and social complexities of what people are doing in Twitch. Providing a nuanced and close-to-the-ground analysis, Watch Me Play will be the go-to work for learning about this gaming experience.”—Thomas M. Malaby, author of Making Virtual Worlds: Linden Lab and Second Life 
-“Based on years of immersion and research, Watch Me Play is a masterful book and covers an area that has not received much serious study before. Using rich and inventive methods, Taylor makes a compelling argument for thinking about games across media. I loved the writing and learned a great deal.”—Jonathan Sterne, author of MP3: The Meaning of a Format
-“If you’ve ever wondered why anyone would watch someone else playing videogames, this book is for you. Deep, analytical, and comprehensive, Watch Me Play is the greatest written resource on the complex world of internet streaming.”—Paul Chaloner, managing director of Code Red Esports
-
-
 "[Taylor’s] work expertly builds a historical framework for Twitch and outlines how patterns of behavior have evolved on the platform without overcommitting to any last-word assessments of its influence [and] also demonstrates how invigorating academic scholarship can be when it tries to tackle a subject still in formation."—Jacob Merten, The Velvet Light Trap
 "well worth reading. . .  [A] timely, wide-ranging introduction to, immersion in, and analysis of, Twitch and game live streaming."—Helle Breth Klausen, MedieKultur
 "Watch Me Play is an accessible text that both legitimizes academic inquiry into live streaming and provides a concrete base from which to build. Taylor uses comprehensible language to explain nuanced practices from
@@ -1400,23 +880,6 @@ Xiang Biao is Academic Fellow at the Institute of Social and Cultural Anthropolo
 
 
 
-
-
-
-"Xiang Biao's book opens a fascinating window. . . . Although addressing a profoundly complex subject, it is intended to be read by people with little background in India or familiarity with the IT industry. Global 'Body Shopping' is an enjoyable and easy read, while offering a detailed and sophisticated critique of the unchallenged embrace of global capitalism. It deserves a wide readership among those with an interest in globalization studies and will be particularly useful for people desiring to find out more about ethnographic work that is global in scope."—Nanlai Cao, Pacific Journal of Anthropology
-"Xiang Biao's avowed goal at an analysis incorporating ethnography and political economic analysis has long been a requirement for scholars interested in the production and maintenance of transnational work and flexible labor. Global Body Shopping more than lives up to this ideal. . . . I strongly recommend this ethnography as essential reading for scholars interested in questions of globalization, transnationality, and flexible labor."—Mathangi Krishnamurthy, American Ethnologist
-"Xiang Biao tells the fascinating story of how body shopping brought globalization into the lives of hitherto minimally influenced rural youth and facilitated their movement into the highly volatile global arena of information technology . . . he has created a remarkably clear picture of a complex globally dispersed labor chain. . . . Not only does this innovative book provide a strong foundation for scholars interested in this under-researched global labor system, it is a great resource for teaching political and economic geography as well as courses exploring the various facets of globalization."—Monalisa Gangopadhyay, Political Geography
-"Xiang has produced what may well be the first contribution of a contemporary anthropologist from China to the ethnographic study of global issues. . . . The book is compact, lucid, and jargon-free, making it one of the most accessible ethnographies of how the global migration regime's shift towards temporary skilled labour is changing societies."—Nyíri Pál, Critique of Anthropology
-"The book provides an important corrective to analyses that ignore the lower end of the IT labour market. The discussion of how Indian community associations contribute to workers' quiescence is a valuable addition to Saxenian's insights regarding how such community associations in places such as Silicon Valley promote entrepreneurship and innovation. Biao also goes beyond Castells' emphasis on exclusion through the digital divide to show how the more glamorous parts of the IT industry are sustained in part by the flexibility provided by body-shopped labour and the social reproduction taken on by local communities, extended families and governments."—Seán Ó Riain, International Journal of Urban and Regional Research
-"Xiang Biao's Global Bodyshopping is an outstanding example of multi-sited ethnography and a timely story of globally mobile workers. . . . [Xiang] Biao must be congratulated for his nuanced approach to the subject."—A. Aneesh, International Review of Modern Sociology
-"The novelty of this work lies in its attempt to study social groups within the context of the ongoing processes of abstraction and virtualism, as these groups develop strategies to participate in global processes. . . . Xiang's book presents the daily lives, the intricate familial and professional negotiations, calculations and strategies, dreams and speculations through which individual Indians in the finger-labour market survive."—Madhava Prasad, Inter-Asia Cultural Studies
-"[A]n extremely well written-book with mega-doses of anthropology mixed with humour."—Raghunath, Nilanjan, Asian Journal of Social Science
-"[The book is] remarkable for meticulous research, mastery of details and understanding of the structures and processes of the industry. . . . This book must be read—not only by all social scientists, but by all those enthusiastic votaries and skeptical denouncers of IT as India's present and future."—Samita Sen, Global South
-"I find the book most instructive in teaching us how political economic analyses sensitive to fine-grained details about the local and everyday life can enrich a global ethnography. What holds the book together is its creative use of socioanthropological methodologies to understand the phenomenon of 'body shopping' peculiar to the information technology (IT) industry. . . . I find his honesty and the unpredictability of his narratives refreshing."—Mark Lawrence Santiago, Singapore Journal of Tropical Geography
-"[A] sterling exemplar of what anthropology is and can be today. . . . In a world of anthropologists never-ending anxiety over the loss of cultures, the loss of their own ability to explain cultures, and the problem of finding new things to study, Xiang's book offers a way out: it shows how one can study a structure within a larger system and explain both how that structure works and how it illuminates the function of the larger system. The combination of a simple explanation (hard-won through fieldwork) of a complex technical and economic system, with the exploration of its effects on social and personal lives of an extended network of families, villages, and corporations scattered around the globe is what makes this the perfect 'Intro to Cultural Anthropology' book in my estimation."—Christopher Kelty, Savage Minds: Notes and Queries in Anthropology
-"Bravura ethnographic reportage. Of the many manuscripts and books I have read on anthropological forays into globalization issues, this is the one I would most want my students to have as an exemplar as they plan their research."—George E. Marcus, Rice University, coauthor of Anthropology as Cultural Critique
-"This book is a wonderful contribution to the anthropology of transnationalism and the sociology of labor. It is also a really innovative analysis of an important new professional cadre that is of crucial importance to globalization."—Peter van der Veer, Utrecht University, author of Imperial Encounters: Religion and Modernity in Britain and India
-"This is the first extended study of body shopping, a global system for training, managing, and circulating skilled labor. In this multisited analysis, Xiang Biao traces the links between Indian kinship and mobile professionals, Indian body shops and Western corporations, and Asian outsourcing and the rise of new entrepreneurs."—Aihwa Ong, University of California, Berkeley, author of Buddha Is Hiding: Refugees, Citizenship, the New America
 
 
 "Xiang Biao's book opens a fascinating window. . . . Although addressing a profoundly complex subject, it is intended to be read by people with little background in India or familiarity with the IT industry. Global 'Body Shopping' is an enjoyable and easy read, while offering a detailed and sophisticated critique of the unchallenged embrace of global capitalism. It deserves a wide readership among those with an interest in globalization studies and will be particularly useful for people desiring to find out more about ethnographic work that is global in scope."—Nanlai Cao, Pacific Journal of Anthropology
@@ -1455,112 +918,6 @@ Satyan L. Devadoss is associate professor of mathematics at Williams College. Jo
 
 
 
-
-
-          Resources
-      
-
-
-Table of Contents
-
-
-Chapter 1
-
-
-
-
-"Discrete and Computational Geometry meets an urgent need for an undergraduate text bridging the theoretical sides and the applied sides of the field. It is an excellent choice as a textbook for an undergraduate course in discrete and computational geometry! The presented material should be accessible for most mathematics or computer science majors in their second or third year in college. The book also is a valuable resource for graduate students and researchers."—Egon Schulte, Zentralblatt MATH
-"[W]e recommend this book for an undergraduate course on computational geometry. In fact, we hope to use this book ourselves when we teach such a class."—Brittany Terese Fasy and David L. Millman, SigAct News
-"This book is ideal for people who want to learn about the topic without wading too deeply into technical details. I really like the figures, and the writing style is very nice for students, with frequent jumps into exercises. The book favors topics that are intuitive, engaging, and easily grasped. It could form the basis of an excellent undergraduate-level course for students in computer science, applied mathematics, and pure mathematics."—Samir Khuller, University of Maryland
-"I thoroughly enjoyed reading this book. It covers an incredibly diverse set of topics, ranging from elementary objects to deep mathematical concepts and important computational problems. Devadoss and O'Rourke have done a remarkable job of showing off the rich interplay between pure mathematics and computing that drives our research community. There really is nothing else like this on the market."—Jeff Erickson, University of Illinois, Urbana-Champaign
-
-      			The Silicon Jungle: A Novel of Deception, Power, and Internet Intrigue 
-
-What happens when a naive intern is granted unfettered access to people’s most private thoughts and actions? Stephen Thorpe lands a coveted internship at Ubatoo, an Internet empire that provides its users with popular online services, from a search engine and e-mail, to social networking. When Stephen’s boss asks him to work on a project with the American Coalition for Civil Liberties, Stephen innocently obliges, believing he is mining Ubatoo’s vast databases to protect people unfairly targeted in the name of national security. But nothing is as it seems. Suspicious individuals surface, doing all they can to access Ubatoo’s wealth of confidential information. This need not require technical wizardry—simply knowing how to manipulate a well-intentioned intern may be enough. The Silicon Jungle is a cautionary fictional tale of data mining’s promise and peril. Baluja raises ethical questions about contemporary technological innovations, and how minute details can be routinely pieced together into rich profiles that reveal our habits, goals, and secret desires—all ready to be exploited.
-
-Awards and Recognition
-
-Co-Winner of the 2012 Mary Shelley Award for Outstanding Fictional Work, Media Ecology Association
-
-
-
-
-
-Shumeet Baluja is a senior staff research scientist at Google and the inventor of over 100 patents in algorithms, data mining, privacy, and artificial intelligence.
-
-
-
-
-
-
-
-
-
-
-
-"Baluja's clever, cynical debut explores the frightening possibilities of data mining. . . . A nod to Upton Sinclair's muckraking The Jungle, which scared its readers into regulating the meat-packing industry, this lively if depressing novel suggests that computer snooping is too seductive to control, despite the consequences."—Publishers Weekly
-"[F]righteningly convincing. . . . The read is quick, the questions will linger, and the ideas are so intriguing. . . . Baluja simplifies the abstract world of tech-speak for the rest of us while aiming to do for the Internet what Upton Sinclair's The Jungle did for the meat industry: make readers reconsider its safety. For fans of intelligent thrillers."—Stephen Morrow, Library Journal
-"In the era of the ubiquitous web company, The Silicon Jungle provides ample food for thought."—Zena Iovino, New Scientist
-"[T]his cautionary tale is fascinating for its exploration of technology as a conduit for crime."—Michele Leber, Booklist Online
-"The book's central message is fascinating. A company like Google, Baluja points out, has far more information on U.S. citizens than does the FBI and far fewer restrictions on how to use it. It's a chilling message in a fun package."—Kathleen Offenholley, Mathematics Teacher
-"A cerebral, cautionary tale. Credible and scary."—Vint Cerf, Google Vice President and Chief Internet Evangelist and one of the "Fathers of the Internet"
-"At last, computer science has its equivalent to Scott Turow. Shumeet Baluja not only tells a compelling story, but as an expert in data mining, he also knows his stuff. His story shows how powerful and far-reaching modern search technology can be, and hence, potentially dangerous if not properly controlled. A techno-thriller with a disturbing message."—Keith Devlin, author of The Unfinished Game: Pascal, Fermat, and the Seventeenth-Century Letter that Made the World Modern
-"Clever and prophetic. The Silicon Jungle will be required reading from Silicon Valley to Washington, DC."—Marc Rotenberg, Electronic Privacy Information Center
-"The Silicon Jungle is an engaging and welcome addition to the literature of dystopia. The connections drawn between people, places, products, and internet usage, as well as the data-mining scientists in this suspenseful and alarming novel, show us that the decline of individual freedoms can occur not through weapons and coups, but through profiles germinated from algorithmic seeds."—Gary T. Marx, author of Undercover: Police Surveillance in America
-"This novel will open your eyes to issues of privacy on the internet and to the hazards of placing uncritical, blind trust in the people overseeing this vast enterprise. Baluja tells a story about something that could happen to any of us—if you're even modestly concerned about information privacy, this is an important book to read."—Roy Maxion, Carnegie Mellon University
-"The Silicon Jungle expertly explores a major 'what if' that should interest anyone who has ever used a cell phone or Wi-Fi connection, or typed a keystroke on a computer connected to the internet. The story is intriguing, well researched, well written, and frighteningly probable. A delightfully entertaining and thought-provoking read for all."—Retired Senior Official, National Security Agency
-"This novel does an excellent job of introducing the ideas behind data mining and provides greater insight into the process than anything I have seen in fiction. The book presents a number of important issues, both technical and social."—Joseph D. Sloan, Wofford College
-
-
-"Baluja's clever, cynical debut explores the frightening possibilities of data mining. . . . A nod to Upton Sinclair's muckraking The Jungle, which scared its readers into regulating the meat-packing industry, this lively if depressing novel suggests that computer snooping is too seductive to control, despite the consequences."—Publishers Weekly
-"[F]righteningly convincing. . . . The read is quick, the questions will linger, and the ideas are so intriguing. . . . Baluja simplifies the abstract world of tech-speak for the rest of us while aiming to do for the Internet what Upton Sinclair's The Jungle did for the meat industry: make readers reconsider its safety. For fans of intelligent thrillers."—Stephen Morrow, Library Journal
-"In the era of the ubiquitous web company, The Silicon Jungle provides ample food for thought."—Zena Iovino, New Scientist
-"[T]his cautionary tale is fascinating for its exploration of technology as a conduit for crime."—Michele Leber, Booklist Online
-"The book's central message is fascinating. A company like Google, Baluja points out, has far more information on U.S. citizens than does the FBI and far fewer restrictions on how to use it. It's a chilling message in a fun package."—Kathleen Offenholley, Mathematics Teacher
-"A cerebral, cautionary tale. Credible and scary."—Vint Cerf, Google Vice President and Chief Internet Evangelist and one of the "Fathers of the Internet"
-"At last, computer science has its equivalent to Scott Turow. Shumeet Baluja not only tells a compelling story, but as an expert in data mining, he also knows his stuff. His story shows how powerful and far-reaching modern search technology can be, and hence, potentially dangerous if not properly controlled. A techno-thriller with a disturbing message."—Keith Devlin, author of The Unfinished Game: Pascal, Fermat, and the Seventeenth-Century Letter that Made the World Modern
-"Clever and prophetic. The Silicon Jungle will be required reading from Silicon Valley to Washington, DC."—Marc Rotenberg, Electronic Privacy Information Center
-"The Silicon Jungle is an engaging and welcome addition to the literature of dystopia. The connections drawn between people, places, products, and internet usage, as well as the data-mining scientists in this suspenseful and alarming novel, show us that the decline of individual freedoms can occur not through weapons and coups, but through profiles germinated from algorithmic seeds."—Gary T. Marx, author of Undercover: Police Surveillance in America
-"This novel will open your eyes to issues of privacy on the internet and to the hazards of placing uncritical, blind trust in the people overseeing this vast enterprise. Baluja tells a story about something that could happen to any of us—if you're even modestly concerned about information privacy, this is an important book to read."—Roy Maxion, Carnegie Mellon University
-"The Silicon Jungle expertly explores a major 'what if' that should interest anyone who has ever used a cell phone or Wi-Fi connection, or typed a keystroke on a computer connected to the internet. The story is intriguing, well researched, well written, and frighteningly probable. A delightfully entertaining and thought-provoking read for all."—Retired Senior Official, National Security Agency
-"This novel does an excellent job of introducing the ideas behind data mining and provides greater insight into the process than anything I have seen in fiction. The book presents a number of important issues, both technical and social."—Joseph D. Sloan, Wofford College
-
-      			Watch Me Play: Twitch and the Rise of Game Live Streaming A look at the revolution in game live streaming and esports broadcasting
-
-Every day thousands of people broadcast their gaming live to audiences over the internet using popular sites such as Twitch, which reaches more than one hundred million viewers a month. In these new platforms for interactive entertainment, big esports events featuring digital game competitors live stream globally, and audiences can interact with broadcasters—and each other—through chat in real time. What are the ramifications of this exploding online industry? Taking readers inside home studios and backstage at large esports events, Watch Me Play investigates the rise of game live streaming and how it is poised to alter how we understand media and audiences.Through extensive interviews and immersion in this gaming scene, T. L. Taylor delves into the inner workings of the live streaming platform Twitch. From branding to business practices, she shows the pleasures and work involved in this broadcasting activity, as well as the management and governance of game live streaming and its hosting communities. At a time when gaming is being reinvented through social media, the potential of an ever-growing audience is transforming user-generated content and alternative distribution methods. These changes will challenge the meaning of ownership and intellectual property and open the way to new forms of creativity.The first book to explore the online phenomenon Twitch and live streaming games, Watch Me Play offers a vibrant look at the melding of private play and public entertainment.
-
-Awards and Recognition
-
-Winner of the CITAMS Book Award, Communication, Information Technologies, and Media Sociology Section of the American Sociological Association
-
-
-
-
-
-T. L. Taylor is professor of comparative media studies at the Massachusetts Institute of Technology. Her books include Raising the Stakes and Play between Worlds.
-
-
-
-
-
-
-"[Taylor’s] work expertly builds a historical framework for Twitch and outlines how patterns of behavior have evolved on the platform without overcommitting to any last-word assessments of its influence [and] also demonstrates how invigorating academic scholarship can be when it tries to tackle a subject still in formation."—Jacob Merten, The Velvet Light Trap
-"well worth reading. . .  [A] timely, wide-ranging introduction to, immersion in, and analysis of, Twitch and game live streaming."—Helle Breth Klausen, MedieKultur
-"Watch Me Play is an accessible text that both legitimizes academic inquiry into live streaming and provides a concrete base from which to build. Taylor uses comprehensible language to explain nuanced practices from
-gaming, legal, academic, and financial contexts, making this book useful for academics and students, as well as consumers, producers, streamers, and designers."—Janelle Malagon, Popular Culture Studies
-“Interest in online streaming platforms, especially for games and Twitch, is at its height. This timely and urgently needed book successfully conveys the technical, legal, emotional, and social complexities of what people are doing in Twitch. Providing a nuanced and close-to-the-ground analysis, Watch Me Play will be the go-to work for learning about this gaming experience.”—Thomas M. Malaby, author of Making Virtual Worlds: Linden Lab and Second Life 
-“Based on years of immersion and research, Watch Me Play is a masterful book and covers an area that has not received much serious study before. Using rich and inventive methods, Taylor makes a compelling argument for thinking about games across media. I loved the writing and learned a great deal.”—Jonathan Sterne, author of MP3: The Meaning of a Format
-“If you’ve ever wondered why anyone would watch someone else playing videogames, this book is for you. Deep, analytical, and comprehensive, Watch Me Play is the greatest written resource on the complex world of internet streaming.”—Paul Chaloner, managing director of Code Red Esports
-
-
-"[Taylor’s] work expertly builds a historical framework for Twitch and outlines how patterns of behavior have evolved on the platform without overcommitting to any last-word assessments of its influence [and] also demonstrates how invigorating academic scholarship can be when it tries to tackle a subject still in formation."—Jacob Merten, The Velvet Light Trap
-"well worth reading. . .  [A] timely, wide-ranging introduction to, immersion in, and analysis of, Twitch and game live streaming."—Helle Breth Klausen, MedieKultur
-"Watch Me Play is an accessible text that both legitimizes academic inquiry into live streaming and provides a concrete base from which to build. Taylor uses comprehensible language to explain nuanced practices from
-gaming, legal, academic, and financial contexts, making this book useful for academics and students, as well as consumers, producers, streamers, and designers."—Janelle Malagon, Popular Culture Studies
-“Interest in online streaming platforms, especially for games and Twitch, is at its height. This timely and urgently needed book successfully conveys the technical, legal, emotional, and social complexities of what people are doing in Twitch. Providing a nuanced and close-to-the-ground analysis, Watch Me Play will be the go-to work for learning about this gaming experience.”—Thomas M. Malaby, author of Making Virtual Worlds: Linden Lab and Second Life 
-“Based on years of immersion and research, Watch Me Play is a masterful book and covers an area that has not received much serious study before. Using rich and inventive methods, Taylor makes a compelling argument for thinking about games across media. I loved the writing and learned a great deal.”—Jonathan Sterne, author of MP3: The Meaning of a Format
-“If you’ve ever wondered why anyone would watch someone else playing videogames, this book is for you. Deep, analytical, and comprehensive, Watch Me Play is the greatest written resource on the complex world of internet streaming.”—Paul Chaloner, managing director of Code Red Esports
-
       			Numerical Algorithms for Personalized Search in Self-organizing Information Networks		
 
 This book lays out the theoretical groundwork for personalized search and reputation management, both on the Web and in peer-to-peer and social networks. Representing much of the foundational research in this field, the book develops scalable algorithms that exploit the graphlike properties underlying personalized search and reputation management, and delves into realistic scenarios regarding Web-scale data.  Sep Kamvar focuses on eigenvector-based techniques in Web search, introducing a personalized variant of Google’s PageRank algorithm, and he outlines algorithms — such as the now-famous quadratic extrapolation technique — that speed up computation, making personalized PageRank feasible. Kamvar suggests that Power Method-related techniques ultimately should be the basis for improving the PageRank algorithm, and he presents algorithms that exploit the convergence behavior of individual components of the PageRank vector. Kamvar then extends the ideas of reputation management and personalized search to distributed networks like peer-to-peer and social networks. He highlights locality and computational considerations related to the structure of the network, and considers such unique issues as malicious peers. He describes the EigenTrust algorithm and applies various PageRank concepts to P2P settings. Discussion chapters summarizing results conclude the book’s two main sections.  Clear and thorough, this book provides an authoritative look at central innovations in search for all of those interested in the subject.
@@ -1569,15 +926,6 @@ This book lays out the theoretical groundwork for personalized search and reputa
 
 
 Sep Kamvar is a consulting assistant professor of computational mathematics at Stanford University. From 2003 to 2007, he was the engineering lead for personalization at Google. He is the founder and former CEO of Kaltix, a personalized search engine acquired by Google in 2003.
-
-
-
-
-
-
-"The writing style is extremely clear, and the book is accessible to readers both within and outside of the field."—Chen Greif, University of British Columbia
-"The clarity of presentation makes this book accessible to a broad audience. The scholarship is thorough and sound, and the experimental results are presented in a precise and detailed fashion."—Taher Haveliwala, QForge Labs
-"Kamvar helped establish a foundation for P2P search and this book provides an authoritative record and source for his excellent work in this area."—Andrew Tomkins, Google
 
 
 "The writing style is extremely clear, and the book is accessible to readers both within and outside of the field."—Chen Greif, University of British Columbia
@@ -1594,12 +942,6 @@ The@ first graduate-level textbook to focus on fundamental aspects of numerical 
 Dongbin Xiu is associate professor of mathematics at Purdue University.
 
 
-
-
-
-
-"[A]s a newbie to this field, by reading this lively written text I was able to gain insight into this really interesting and challenging matter."—Peter Mathé, Mathematical Reviews
-"Short and comprehensive, this book is appropriate for novices of polynomial chaos. Many diverse fields are adopting this method, and this book can be used for first-year graduate studies as well as senior undergraduate courses. The book includes important new developments, such as non-Gaussian processes and stochastic collocation methods."—George Karniadakis, Brown University
 
 
 "[A]s a newbie to this field, by reading this lively written text I was able to gain insight into this really interesting and challenging matter."—Peter Mathé, Mathematical Reviews
@@ -1651,8 +993,6 @@ Harald Niederreiter is professor of mathematics and computer science at the Nati
 "This is a beautifully written volume that gives the necessary background to read the research literature on coding and cryptography based on concepts from curves in algebraic geometries. Both of the authors are outstanding researchers, well known for the clarity and depth of their contributions. This work is a valuable and welcome addition to the literature on coding and cryptography."—Ian F. Blake, University of British Columbia
 
 
-"Coding theory has a rapidly growing corpus of knowledge, and now appears explicitly in several classifications in the MSC. [This] book . . . is certainly an important addition to the literature in this area and a serious candidate for becoming one of the standard textbooks in related courses."—Cicero Carvalho, Mathematical Reviews
-"This is a beautifully written volume that gives the necessary background to read the research literature on coding and cryptography based on concepts from curves in algebraic geometries. Both of the authors are outstanding researchers, well known for the clarity and depth of their contributions. This work is a valuable and welcome addition to the literature on coding and cryptography."—Ian F. Blake, University of British Columbia
 
       			Digital Formations: IT and New Architectures in the Global Realm 
 
@@ -1672,8 +1012,6 @@ Robert Latham is Director of the Social Science Research Council Program on Info
 "Comprehensive and insightful, Digital Formations will be greeted warmly in the fields that overlap its concerns. It addresses a most important set of questions concerning the relationship of information technologies to globalization. And this is an urgent topic for social science."—Mark Poster, University of California, Irvine, author of The Mode of Information and What's the Matter with the Internet?
 
 
-"A valuable contribution to scholarship, and one that I enjoyed reading, Digital Formations takes a unique approach to the subject of information technology. In seeking to build new conceptual frameworks and develop new perspectives, it provides a solid foundation for the elaboration of future empirical and theoretical work on IT and globalization."—Michel S. Laguerre, University of California, Berkeley, author of The Informal City and The Global Ethnopolis
-"Comprehensive and insightful, Digital Formations will be greeted warmly in the fields that overlap its concerns. It addresses a most important set of questions concerning the relationship of information technologies to globalization. And this is an urgent topic for social science."—Mark Poster, University of California, Irvine, author of The Mode of Information and What's the Matter with the Internet?
 
       			Probability, Markov Chains, Queues, and Simulation: The Mathematical Basis of Performance Modeling 
 
@@ -1694,22 +1032,6 @@ William J. Stewart is professor of computer science at North Carolina State Univ
 "Clear and pleasant to read, this book distinguishes itself from comparable textbooks by its inclusion of the computational aspects of the material."—Richard R. Muntz, University of California, Los Angeles
 
 
-
-
-
-          Resources
-      
-
-
-Chapter 1
-
-
-
-
-"The book represents a valuable text for courses in statistics and stochastic processes, so it is strongly recommended to libraries."—Hassan S. Bakouch, Journal of Applied Statistics
-"This is an excellent book on the topics of probability, Markov chains, and queuing theory. Extremely well-written, the contents range from elementary topics to quite advanced material and include plenty of well-chosen examples."—Adarsh Sethi, University of Delaware
-"Clear and pleasant to read, this book distinguishes itself from comparable textbooks by its inclusion of the computational aspects of the material."—Richard R. Muntz, University of California, Los Angeles
-
       			Distributed Control of Robotic Networks: A Mathematical Approach to Motion Coordination Algorithms 
 
 This self-contained introduction to the distributed control of robotic networks offers a distinctive blend of computer science and control theory. The book presents a broad set of tools for understanding coordination algorithms, determining their correctness, and assessing their complexity; and it analyzes various cooperative strategies for tasks such as consensus, rendezvous, connectivity maintenance, deployment, and boundary estimation. The unifying theme is a formal model for robotic networks that explicitly incorporates their communication, sensing, control, and processing capabilities — a model that in turn leads to a common formal language to describe and analyze coordination algorithms. Written for first- and second-year graduate students in control and robotics, the book will also be useful to researchers in control theory, robotics, distributed algorithms, and automata theory. The book provides explanations of the basic concepts and main results, as well as numerous examples and exercises. Self-contained exposition of graph-theoretic concepts, distributed algorithms, and complexity measures for processor networks with fixed interconnection topology and for robotic networks with position-dependent interconnection topology  Detailed treatment of averaging and consensus algorithms interpreted as linear iterations on synchronous networks  Introduction of geometric notions such as partitions, proximity graphs, and multicenter functions  Detailed treatment of motion coordination algorithms for deployment, rendezvous, connectivity maintenance, and boundary estimation
@@ -1722,11 +1044,6 @@ Francesco Bullo is professor of mechanical engineering at the University of Cali
 
 
 
-
-
-"This book covers its subject very thoroughly. The framework the authors have established is very elegant and, if it catches on, this book could be the primary reference for this approach. I don't know of any other book that covers this set of topics."—Richard M. Murray, California Institute of Technology
-"The authors do an excellent job of clearly describing the problems and presenting rigorous, provably correct algorithms with complexity bounds for each problem. The authors also do a fantastic job of providing the mathematical insight necessary for such complex problems."—Ali Jadbabaie, University of Pennsylvania
-"The order of presentation makes much sense, and the book thoroughly covers what it sets out to cover. The algorithms and results are presented using a clear mathematical and computer science formalism, which allows a uniform presentation. The formalism used and the way of presenting the algorithms may be helpful for structuring the presentation of new algorithms in the future."—Vincent Blondel, Université catholique de Louvain
 
 
 "This book covers its subject very thoroughly. The framework the authors have established is very elegant and, if it catches on, this book could be the primary reference for this approach. I don't know of any other book that covers this set of topics."—Richard M. Murray, California Institute of Technology
@@ -1750,20 +1067,6 @@ Kelly Moore is assistant professor of sociology at the University of Cincinnati.
 
 
 
-
-
-
-"In Disrupting Science, Kelly Moore attempts to explain how scientists' attitudes about the proper role of science and scientists in public life changed so dramatically within two generations....Moore's well-researched account introduces the pacifists, petition writers, newsletter publishers, and protestors—who doggedly drew attention to the ways that militarism was infiltrating the practice of science in the United States."—Audra J. Wolfe, Science
-"Disrupting Science is an important scholarly addition to the literature in the sociology of science and history of science.  The book's examination of archival sources shows a complex relationship between scientists and the military from 1945 to 1975."—G.D. Oberle, Choice
-"The book prompts intriguing questions about the professional role, the boundaries by which it is constituted, and the potential consequences of overstepping those boundaries."—Joseph C. Hermanowicz, American Journal of Sociology
-"As the U.S. government's budget for national and homeland security approaches three-quarters of a trillion dollars in fiscal year 2009, and the roles of science and technology continue to expand in our daily lives, our collective need for nuanced studies of the relations between the military and science is ever more pressing. Moore's thoughtful study points the way."—William J. Astore, H-Net Reviews
-"Disrupting Science is first rate work. . . . Moore's account serves as an exemplary case study in what she and Scott Frickel have billed in their 2006 book as 'the new political sociology of science.' I expect her new book to be read widely across the discipline."—Steven Epstein, Mobilization
-"Moore's book is very well-written, scholarly, and impeccably organized, making it a useful reference tool. It is relevant to those interested in political sociology, the 'fact-value' debate in the philosophy of science, questions of science and ideology, and science studies."—Ronjon Paul Datta, Canadian Journal of Sociology
-"Useful for academics studying the history of science and social movements, this book offers an interesting, unique, and insightful look at the role of scientists in challenging the boundaries of their own expertise and positions of influence. From scientists as elite experts to science 'for the people,' this work offers a captivating glimpse as social movement activists among scientists during this time in history."—Chelsea Schelly, Social Science Journal
-"Kelly Moore's book is a significant scholarly achievement and will be an important and much-cited work in the sociology and social studies of science. Moore not only advances how we conceive of the politics that scientists engage in, but she also more clearly spells out the protest activities of the 1960s and places science near the center of their concerns."—David H. Guston, author of Between Politics and Science: Assuring the Integrity and Productivity of Research
-"This is a truly excellent book by a thoughtful scholar. Moore's theoretical development is compelling and her concepts are of use beyond the empirical terrain she covers in the book. What's more, she shows that it is worth looking at social movements that focus on institutions like science and studying these movements' effects on meanings and orientation, not just policies."—Daniel Lee Kleinman, editor of Science, Technology, and Democracy
-
-
 "In Disrupting Science, Kelly Moore attempts to explain how scientists' attitudes about the proper role of science and scientists in public life changed so dramatically within two generations....Moore's well-researched account introduces the pacifists, petition writers, newsletter publishers, and protestors—who doggedly drew attention to the ways that militarism was infiltrating the practice of science in the United States."—Audra J. Wolfe, Science
 "Disrupting Science is an important scholarly addition to the literature in the sociology of science and history of science.  The book's examination of archival sources shows a complex relationship between scientists and the military from 1945 to 1975."—G.D. Oberle, Choice
 "The book prompts intriguing questions about the professional role, the boundaries by which it is constituted, and the potential consequences of overstepping those boundaries."—Joseph C. Hermanowicz, American Journal of Sociology
@@ -1782,26 +1085,6 @@ Many problems in the sciences and engineering can be rephrased as optimization p
 
 
 P.-A. Absil is associate professor of mathematical engineering at the Université Catholique de Louvain in Belgium. R. Mahony is reader in engineering at the Australian National University. R. Sepulchre is professor of electrical engineering and computer science at the University of Liège in Belgium.
-
-
-
-
-
-
-"This book is succinct but essentially self-contained; it includes an appendix with background material as well as an extensive bibliography. The algorithmic techniques developed may be useful anytime a model leads to a mathematical optimization problem where the domain naturally is a manifold, particularly if the manifold is a matrix manifold. The book follows the usual definition-theorem-proof style but it is not intended for traditional course work so there are no exercises. A reader with limited exposure to manifold theory and differential geometry most likely will benefit from consulting standard texts on those subjects first."—Anders Linner, Mathematical Reviews
-"[T]his book is succinct but essentially self-contained; it includes an appendix with background material as well as an extensive bibliography. The algorithmic techniques developed may be useful anytime a model leads to a mathematical optimization problem where the domain naturally is a manifold, particularly if the manifold is a matrix manifold. The book follows the usual definition-theorem-proof style but it is not intended for traditional course work so there are no exercises. A reader with limited exposure to manifold theory and differential geometry most likely will benefit from consulting standard texts on those subjects first."—Anders Linnér, American Mathematical Society
-"The book is very well and carefully written. Every chapter starts with a page-long introduction clearly outlining its goals and how they are achieved together with possible relations to other chapters. I find the material very well explained and supported with appropriate examples. It is a pleasure to work with such a book."—Nickolay T. Trendafilov, Foundations of Computational Mathematics
-"The treatment strikes an appropriate balance between mathematical, numerical, and algorithmic points of view. The quality of the writing is quite high and very readable. The topic is very timely and is certainly of interest to myself and my students."—Kyle A. Gallivan, Florida State University
-
-
-
-
-
-          Resources
-      
-
-
-Chapter 1
 
 
 
@@ -1828,17 +1111,6 @@ Matthew Hindman is associate professor of media and public affairs at George Was
 
 
 
-
-
-
-
-
-
-
-
-"You may think you understand the internet, but chances are you don't. It's not what you thought, nor what you hoped. Read this book. Then make your friends read it, too.”—Michael J. Copps, former commissioner of the Federal Communications Commission
-"The Internet Trap is the sole book to explain why media firms are dying from a lack of web traffic, what this means for politics and the public—and what firms can do to fight back. It teems with elegant writing, shrewd insights, real-world examples, and wit. If news companies have a savior, it is Matthew Hindman."—Kenneth Cukier, senior editor of The Economist and bestselling coauthor of Big Data
-"Hindman's book upends conventional understandings of the open internet, and does so with an engaging style and precise arguments that leave a reader both enlightened and entertained. The Internet Trap is the best book I've read all year."—James T. Hamilton, author of Democracy's Detectives
 
 
 "You may think you understand the internet, but chances are you don't. It's not what you thought, nor what you hoped. Read this book. Then make your friends read it, too.”—Michael J. Copps, former commissioner of the Federal Communications Commission
@@ -1877,17 +1149,6 @@ Matthew Hindman is assistant professor of political science at Arizona State Uni
 
 
 
-"An outstanding combination of theoretical and empirical work. Hindman has produced one of the very few best books, ever, on the relationship between the Internet and democracy. Indispensable reading."—Cass R. Sunstein, author of Republic.com 2.0
-"Hindman provides a serious, informed, and methodologically conscientious argument in favor of the position that the Internet has not fundamentally changed the elitist and concentrated structure of the public sphere typical of mass media. He produces significant evidence against both fears of fragmentation of discourse and hopes that we are seeing a more egalitarian and democratic networked public sphere. The contribution is important, and anyone working in this area will have to contend with his data and analysis."—Yochai Benkler, Harvard University
-"Many authors make claims about the Internet and politics on the basis of some piece of the problem—by looking just at Web sites or blogs, or by examining link structure, or evaluating some aspect of campaigns for office. Hindman has drawn together many pieces of the puzzle into a coherent whole. This is an ambitious book, and it delivers."—Bruce Bimber, University of California, Santa Barbara
-"This book makes a significant contribution to the study of political communication. Hindman's approach provides an extensive and multifaceted view of online political content, its producers, and its audiences. This book breaks new ground in important ways, and is likely to become a modern classic in the field of the Internet and politics."—Diana Owen, Georgetown University
-
-
-
-
-
-
-
 
 
 "An outstanding combination of theoretical and empirical work. Hindman has produced one of the very few best books, ever, on the relationship between the Internet and democracy. Indispensable reading."—Cass R. Sunstein, author of Republic.com 2.0
@@ -1913,11 +1174,6 @@ Ben Klemens is a senior statistician at the National Institute of Mental Health.
 "I am a psychiatric geneticist but my degree is in neuroscience, which means that I now do far more statistics than I have been trained for. I cannot overstate to you the magnitude of the change in my productivity since finding this book. Even after reading the first few chapters, which explain why data analysis is painful and how one can implement a long-term solution, my research moved forward greatly."—Amber Baum, National Institute of Mental Health
 "I enjoyed reading this book and learned a great deal from it. Modeling with Data filled in a lot of holes in my knowledge, and I think that will be true in general for other readers as well. There is a lot of high-quality and interesting material here."—Brendan Halpin, University of Limerick
 
-
-"This book presents an original, cheap and powerful solution to the problem of analysis of large data sets. . . . The book is devoted mainly to the practitioner of Statistics, but is also useful to mathematicians, computer scientists, researchers and students in the biology, economics and social sciences."—Radu Trimbitas, StudiaUBB
-"I am a psychiatric geneticist but my degree is in neuroscience, which means that I now do far more statistics than I have been trained for. I cannot overstate to you the magnitude of the change in my productivity since finding this book. Even after reading the first few chapters, which explain why data analysis is painful and how one can implement a long-term solution, my research moved forward greatly."—Amber Baum, National Institute of Mental Health
-"I enjoyed reading this book and learned a great deal from it. Modeling with Data filled in a lot of holes in my knowledge, and I think that will be true in general for other readers as well. There is a lot of high-quality and interesting material here."—Brendan Halpin, University of Limerick
-
       			A Survey of Computational Physics: Introductory Computational Science 
 
 Computational physics is a rapidly growing subfield of computational science, in large part because computers can solve previously intractable problems or simulate natural processes that do not have analytic solutions. The next step beyond Landau’s First Course in Scientific Computing and a follow-up to Landau and Páez’s Computational Physics, this text presents a broad survey of key topics in computational physics for advanced undergraduates and beginning graduate students, including new discussions of visualization tools, wavelet analysis, molecular dynamics, and computational fluid dynamics. By treating science, applied mathematics, and computer science together, the book reveals how this knowledge base can be applied to a wider range of real-world problems than computational physics texts normally address. Designed for a one- or two-semester course, A Survey of Computational Physics will also interest anyone who wants a reference on or practical experience in the basics of computational physics. The text includes a CD-ROM with supplementary materials, including Java, Fortran, and C programs; animations; visualizations; color figures; interactive Java applets; codes for MPI, PVM, and OpenDX; and a PVM tutorial.Accessible to advanced undergraduates Real-world problem-solving approach Java codes and applets integrated with text Accompanying CD-ROM contains codes, applets, animations, and visualization files Companion Web site includes videos of lectures 
@@ -1936,20 +1192,6 @@ Rubin H. Landau is professor of physics and director of the computational physic
 
 
 
-
-"Landau and Piez, authors of Computational Physics, have teamed up with Bordeianu to create an expanded work on introductory computational physics. Even more comprehensive than the first book, this volume contains up-to-date treatments of many new topics at the forefront of the field. . . . This volume offers everything needed for a graduate or undergraduate computational physics course."—K.D. Fisher, Choice
-"In addition to being an excellent undergraduate textbook, A Survey of Computational Physics will be useful to scientists wanting a good reference on basic computational modeling methods."—John W. Mintmire, Oklahoma State University
-"This book is a welcome addition to the existing literature on the subject. It is needed as much for its pedagogical approach to computational thinking as for its choice of topics in computational physics. Its use of Java as the main programming language brings it up to date with the skills that the new generation of students will bring to class."—Ali Eskandarian, George Washington University
-
-
-
-
-
-          Resources
-      
-
-
-Chapter 1
 
 
 
@@ -1980,52 +1222,6 @@ Benjamin M. Bolker is a theoretical ecologist in the departments of Mathematics 
 "I have no doubt that this book will become a fixture on many ecologists' bookshelves (it certainly will be on mine). With a presentation that is gentle and encouraging rather than jargon-filled and intimidating, it empowers ecologists to develop their own statistical procedures. I strongly recommend it."—Timothy Essington, University of Washington
 
 
-"Bolker's book is a must-buy for anyone wanting to fit data to models and go beyond hypothesis testing, but it is certainly not an 'introductory' text in the sense of 'simple'. This book is a tour de force for anyone who studied ecology for his or her interest of nature's working. But it is the one single book that can propel the statistical novice to the cutting edge of statistical ecology—albeit with blood, sweat and tears."—Carsten F. Dormann, Basic and Applied Ecology
-"[A] must for natural scientists and for statisticians who are interested in ecological applications. . . . Numerous enlightening footnotes, meaningful graphics and direct speech are evidence of substantial classroom experience of the author. . . . The book addresses students and researchers who have or have had some basic knowledge in ecology, mathematics and statistics. Delivering many examples and profound details on numerical aspects of maximum likelihood estimation, the book may also give a red line for a course in computational statistics."—Martin Schlather, Biometrical Journal
-"[T]his book succeeds both in explaining how to analyze many types of ecological data, and in clearly describing the theoretical background behind some common analyses and approaches. I expect to refer to it often."—Lynda D. Prior, Austral Ecology
-"This user-friendly introduction to likelihood and Bayesian statistical methods for ecology students is set apart by its emphasis on implementation in R. This alone will make it more useful than previous books. In contrast to other texts, Bolker's book explains how to fit models to data in enough detail that even students with little programming experience will be able to follow along. I expect this to become an exceedingly popular textbook."—Stephan B. Munch, Stony Brook University
-"Benjamin Bolker is a pioneer in helping ecology students make the leap from a casual understanding of modern statistical methods to a hands-on application of these tools to their own precious data sets. This book shows the lessons learned from teaching this material to several cohorts of graduate students. No other book I've read gives such a good feel for the compromises scientists have to make in searching for good statistical models."—Brian Inouye, Florida State University
-"I have no doubt that this book will become a fixture on many ecologists' bookshelves (it certainly will be on mine). With a presentation that is gentle and encouraging rather than jargon-filled and intimidating, it empowers ecologists to develop their own statistical procedures. I strongly recommend it."—Timothy Essington, University of Washington
-
-      			When Computers Were Human		
-
-Before Palm Pilots and iPods, PCs and laptops, the term “computer” referred to the people who did scientific calculations by hand. These workers were neither calculating geniuses nor idiot savants but knowledgeable people who, in other circumstances, might have become scientists in their own right. When Computers Were Human represents the first in-depth account of this little-known, 200-year epoch in the history of science and technology.  Beginning with the story of his own grandmother, who was trained as a human computer, David Alan Grier provides a poignant introduction to the wider world of women and men who did the hard computational labor of science. His grandmother’s casual remark, “I wish I’d used my calculus,” hinted at a career deferred and an education forgotten, a secret life unappreciated; like many highly educated women of her generation, she studied to become a human computer because nothing else would offer her a place in the scientific world.  The book begins with the return of Halley’s comet in 1758 and the effort of three French astronomers to compute its orbit. It ends four cycles later, with a UNIVAC electronic computer projecting the 1986 orbit. In between, Grier tells us about the surveyors of the French Revolution, describes the calculating machines of Charles Babbage, and guides the reader through the Great Depression to marvel at the giant computing room of the Works Progress Administration. When Computers Were Human is the sad but lyrical story of workers who gladly did the hard labor of research calculation in the hope that they might be part of the scientific community. In the end, they were rewarded by a new electronic machine that took the place and the name of those who were, once, the computers.
-
-Awards and Recognition
-
-Winner of the 2006 Book Award in Computers/Internet, Independent Publisher Book Awards
-
-
-
-
-
-David Alan Grier is Associate Professor in the Center for International Science and Technology Policy at George Washington University. His articles on the history of science have appeared in the American Mathematical Monthly, Chance, the Christian Science Monitor, and the Washington Post. He is Editor in Chief of the IEEE Annals of the History of Computing. Long before he learned that his grandmother had been trained as a human computer, he absorbed the methods of programming the electronic computer from his father, who was a scientific computing specialist for the Burroughs Corporation.
-
-
-
-
-
-
-"David Alan Grier's recovery of the wonderfully rich story of human computers . . .  ask[s] why human computers were made to disappear in the first place. . . . It is notoriously difficult to recover details of the lives of ordinary people. . . . But Grier triumphantly achieves his aim when discussing the twentieth-century human computer, as many are alive to tell their tales."—Jon Agar, Nature
-"Prior to the advent of programmable data-processing electronic devices in the mid-20th century, the word computer was commonly used to describe a person hired to crank out stupefyingly tedious calculations. . . . Human computers have . . .  been largely forgotten, and David Alan Grier . . .  is intent on restoring them to their rightful place in history."—Ann Finkbeiner, Discover
-"When Computers Were Human is a detailed and fascinating look at a world I had not even known existed."—James Fallows, National Correspondent, Atlantic Monthly
-"The strength of this book is its breadth of research and its human touch. . . .  [A] well written, informative and enjoyable work."—Amy Shell-Gellasch, MAA Reviews
-"Overall, this book provides a wonderful survey of human computing from 1682 onward. . . . I recommend this book to all historians of computing, both professional and amateur."—Jonathan P. Bowen, IEEE Annals of the History of Computing
-"When Computers Were Human is a detailed and fascinating look at a world I had not even known existed. After reading these accounts of ingenuity, determination, and true creative breakthrough, readers will look at today's computer-based society in an entirely different way."—James Fallows, National Correspondent, Atlantic Monthly
-"How did the lives of people and the lives of numbers become so intimately entwined? David Alan Grier's authoritative, engaging, and richly detailed account of this neglected chapter in the history (and prehistory) of computing abounds with remarkable characters, sheds long-awaited light on their achievements, and could not have been better told."—George Dyson, author of Darwin among the Machines
-"The story of computation before the invention of the computer is an important one—one that has not been told in this way before. This narrative grabs you right from the first page. Grier tells the human story behind some of the greatest scientific accomplishments, and tells it in a very readable way."—Michael R. Williams, Head Curator, Computer History Museum
-"The history of the electronic computer has become the topic of a fair amount of scholarly work, and yet the wonderful story of the (collective) human computer has barely been noticed. This book will appeal both to an appreciable range of scholars and to more general readers. The style is pleasant and informal; the mathematics, accessible and interesting."—Theodore M. Porter, author of Trust in Numbers: The Pursuit of Objectivity in Science and Public Life
-
-
-"David Alan Grier's recovery of the wonderfully rich story of human computers . . .  ask[s] why human computers were made to disappear in the first place. . . . It is notoriously difficult to recover details of the lives of ordinary people. . . . But Grier triumphantly achieves his aim when discussing the twentieth-century human computer, as many are alive to tell their tales."—Jon Agar, Nature
-"Prior to the advent of programmable data-processing electronic devices in the mid-20th century, the word computer was commonly used to describe a person hired to crank out stupefyingly tedious calculations. . . . Human computers have . . .  been largely forgotten, and David Alan Grier . . .  is intent on restoring them to their rightful place in history."—Ann Finkbeiner, Discover
-"When Computers Were Human is a detailed and fascinating look at a world I had not even known existed."—James Fallows, National Correspondent, Atlantic Monthly
-"The strength of this book is its breadth of research and its human touch. . . .  [A] well written, informative and enjoyable work."—Amy Shell-Gellasch, MAA Reviews
-"Overall, this book provides a wonderful survey of human computing from 1682 onward. . . . I recommend this book to all historians of computing, both professional and amateur."—Jonathan P. Bowen, IEEE Annals of the History of Computing
-"When Computers Were Human is a detailed and fascinating look at a world I had not even known existed. After reading these accounts of ingenuity, determination, and true creative breakthrough, readers will look at today's computer-based society in an entirely different way."—James Fallows, National Correspondent, Atlantic Monthly
-"How did the lives of people and the lives of numbers become so intimately entwined? David Alan Grier's authoritative, engaging, and richly detailed account of this neglected chapter in the history (and prehistory) of computing abounds with remarkable characters, sheds long-awaited light on their achievements, and could not have been better told."—George Dyson, author of Darwin among the Machines
-"The story of computation before the invention of the computer is an important one—one that has not been told in this way before. This narrative grabs you right from the first page. Grier tells the human story behind some of the greatest scientific accomplishments, and tells it in a very readable way."—Michael R. Williams, Head Curator, Computer History Museum
-"The history of the electronic computer has become the topic of a fair amount of scholarly work, and yet the wonderful story of the (collective) human computer has barely been noticed. This book will appeal both to an appreciable range of scholars and to more general readers. The style is pleasant and informal; the mathematics, accessible and interesting."—Theodore M. Porter, author of Trust in Numbers: The Pursuit of Objectivity in Science and Public Life
 
       			Digital Government: Technology and Public Sector Performance 
 
